@@ -14,8 +14,8 @@ Identities: **16** · High-priority: **4** · **Essential-count (core): 1**
 
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
-| 1 | the frontier field registered (FR2 formation-side sub-questions; FR3's table framing; the observations; `90`) | CONSOLIDATE | HIGH | **core** | |
-| 2 | the contrast-class primitive tested (joint attention forms; relation-outcome attention stalls) | TEST | HIGH | supporting | |
+| 1 | the frontier field registered (FR2 formation-side sub-questions; FR3's table framing; the observations; `90`) | CONSOLIDATE | HIGH | **core** |✓ |
+| 2 | the contrast-class primitive tested (joint attention forms; relation-outcome attention stalls) | TEST | HIGH | supporting |✓ |
 | 3 | the rate composition + the parameter-identity extension (formation-rate as the triple's third identity) | INVESTIGATE-FRONTIER | HIGH | supporting | |
 | 4 | the conversion table — FR3 generalized (candidate rows only) | INVESTIGATE-FRONTIER | HIGH | supporting | |
 | 5 | object lifecycle and succession (the pair's clock; chains of shared objects) | INVESTIGATE-FRONTIER | MED | supporting | |

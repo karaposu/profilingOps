@@ -6,8 +6,8 @@ Registry of concept-identities for this territory under the goal received from `
 
 | Identity | Own-depth pointer | Depth-signal | Individuation history | First-seen | Last-touched |
 |---|---|---|---|---|---|
-| the frontier field registered | none | FR2 formation-side block · FR3 as the table's first row · observations · `90` entry 31 | absorbed the fixed points | 2026-08-31 | 2026-08-31 |
-| the contrast-class primitive test | none | joint attention forms / relation-outcome attention stalls; refuter named | split from the registration | 2026-08-31 | 2026-08-31 |
+| the frontier field registered | `BDA/80` §6 FR2 fourth-customer block + FR3 conversion-table note + §5 M11; `BDA/90` entry 30 | EXECUTED 2026-08-31 (route 1) — the field registered; nothing settled | absorbed the fixed points | 2026-08-31 | 2026-08-31 |
+| the contrast-class primitive test | `BDA/80` §6 FR2 fourth-customer block (the spine, graded) + §5 M11 (the refuter watch) | EXECUTED 2026-08-31 (route 2) — SURVIVES-REFINED: the stall pole sharpened to response-monitoring; refuter named | split from the registration | 2026-08-31 | 2026-08-31 |
 | the rate composition + identity extension | none | occasions · specificity · cost · independence · perturbation; ordering; prediction-grade | — | 2026-08-31 | 2026-08-31 |
 | the conversion table | none | FR3's row first; candidate rows; delivery profiles | split from the rate | 2026-08-31 | 2026-08-31 |
 | object lifecycle and succession | none | the pair's clock; chains; the one-object bond | folded lifecycle + succession | 2026-08-31 | 2026-08-31 |
