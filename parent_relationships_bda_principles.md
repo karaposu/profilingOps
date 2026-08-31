@@ -6,7 +6,7 @@
 
 **Priority structure:** **[GATE]** principles multiply — a zero on one zeroes the rest; the others add. Gates win conflicts.
 
-**Provenance:** the compliance-versus-attachment finding (the domain's spine), `BDA/21` (backed vs performed displays), `BDA/20` (Coherence's longitudinal catalog, Emotional Congruence), `BDA/60` (consent-gate, repair logic), the backing-observables finding (off-stage continuity, cost-trail, forecast-check), the anger-routing finding (deployed / leaked / performed), the leadership-and-inexhaustibility finding. Status: structural layer, uncalibrated — a lens checked against results.
+**Provenance:** the compliance-versus-attachment finding (the domain's spine), `BDA/21` (backed vs performed displays), `BDA/20` (Coherence's longitudinal catalog, Emotional Composure, Coherence's Alignment aspect (shown = felt)), `BDA/60` (consent-gate, repair logic), the backing-observables finding (off-stage continuity, cost-trail, forecast-check), the anger-routing finding (deployed / leaked / performed), the leadership-and-inexhaustibility finding. Status: structural layer, uncalibrated — a lens checked against results.
 
 ---
 

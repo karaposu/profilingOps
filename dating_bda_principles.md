@@ -6,7 +6,7 @@
 
 **Priority structure:** principles marked **[GATE]** multiply — a zero on one zeroes the rest; the others add. Gates win conflicts.
 
-**Provenance:** `BDA/21` (Self-Positioning, Exit-Willingness, backed vs performed displays), `BDA/60` (Return Doctrine, ask-the-no, false-license detection), `BDA/20` (Coherence, Emotional Congruence, Signal Specificity), the insistence finding (manner × budget × horizon; the persistent-suitor cases), the backing-observables finding (channels, baseline, the honest short-window return), the compliance-versus-attachment finding. Status: structural layer, uncalibrated — a lens checked against results, not scripture.
+**Provenance:** `BDA/21` (Self-Positioning, Exit-Willingness, backed vs performed displays), `BDA/60` (Return Doctrine, ask-the-no, false-license detection), `BDA/20` (Coherence, Emotional Composure, Coherence's Alignment aspect (shown = felt), Signal Specificity), the insistence finding (manner × budget × horizon; the persistent-suitor cases), the backing-observables finding (channels, baseline, the honest short-window return), the compliance-versus-attachment finding. Status: structural layer, uncalibrated — a lens checked against results, not scripture.
 
 ---
 
