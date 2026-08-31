@@ -49,6 +49,7 @@
 - **M7 · The roles-inventory admission rule** at the fifth row (captain, star are latent).
 - **M8 · "Property" as a relation** — does the next placement question sort category-vs-property without argument?
 - **M9 · The residual space** — a fifth entry, or two entries sharing a role, re-opens its schema question.
+- **M10 · The Charm-persistence prediction against the season** (registered 2026-08-31; the charm_persistence finding) — *distance-decay of admiration tracks record-poverty, not person-access.* Log in the M5 form (evidence-toward; wording mandatory): (a) absent colleagues and contacts *with* a visible record vs *without* — does admiration persist, and revive, differently? (b) the season's silent stretches *with* shipped output vs *without* — does re-engagement on return differ? (c) any Charm-belief seen to fall with **no** counter-evidence and **no** moved comparison set — the refinement trigger for the predication verdict (`30` §1 row-note). Window: one outreach season. Consumers: `30` §1, `60` §10's maintenance note.
 
 ## 6 · Frontiers (no known path yet)
 

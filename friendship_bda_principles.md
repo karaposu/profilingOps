@@ -58,6 +58,8 @@ The long-cycle rule. Real friendships are **dormancy-tolerant**: they resume aft
 
 **Check:** *is this quiet just the friendship breathing — or is something happening in their life right now that makes silence an absence?*
 
+*(Scope-note, added 2026-08-31, from the charm_persistence finding — the corrected Charm row, `BDA/30` §1: hibernation is that row in daily life. A dormant friendship's beliefs — the admiration, the shared model — are kept by the record (who they are, what they've done) and by the shared model; what goes quiet is *expression*, waiting for an occasion, and resumption is revival, not re-creation. Silence itself never re-prices you. What re-prices is counter-evidence — above all the crisis-absence of principle 2 — so "telling decay from dormancy" reduces to one question: did anything happen that the belief has to answer for, or did nothing happen?)*
+
 ### 8 · Bring new things
 
 A friendship running only on its archive — the same stories, the same bar, the retold golden age — is an exhausted source in slow decline: warm, and ending. Shared *new* experience is the domain's hope-channel and its renewal mechanism: the trip taken, the project attempted together, the new place, the introduction into something you've just discovered. New shared experience does compounding work — it refreshes the friendship's trajectory (there is still a future here, not just a past), it generates the next decade's archive, and it re-displays you as an unexhausted source (still growing, still surprising). The maintenance mode is comfortable precisely because it asks nothing; that's the tell.

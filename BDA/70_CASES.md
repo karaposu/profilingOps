@@ -35,7 +35,7 @@
 | **The shared-niche interest** | It-3.2 | Resonance generating alone → additive, a variable. | ✓ |
 | **The friend with many dates** | It-3.3 | f pre-loaded by social proof; maintenance ≠ creation. | ✓ |
 | **The nightclub pair** | It-3.3 | Display-mode coupling: selective-engagement realizes H_a; withholding → "impressive but not for me." | ✓ |
-| **The Mozart / Napoleon admirer** | It-3.4.2 | The decisive Charm-no-Hope orthogonality case (Hope zero by physical constraint). | ✓ |
+| **The Mozart / Napoleon admirer** | It-3.4.2 | The decisive Charm-no-Hope orthogonality case (Hope zero by physical constraint). **Flag (2026-08-31):** Charm-*dominant*, not Charm-pure — "identifying" carries a Resonance share, so part of the persistence seen here may be the Resonance row's; and the case is the corrected Charm row's zero-access limit (the belief kept by the record; the standing frozen — `30` §1). | ✓ (+flag) |
 | **The anonymous offer** | It-3.4.2 | The Hope-no-Charm borderline: engagement-with-offer vs attachment-to-person. | ✓ |
 | **The estranged parent** | It-3.4.1 | H_c without H_a — presence without specific attention. | ✓ |
 | **The colleagues who think alike** | It-3.4.1 | High Resonance with low H_v — shared world-models ≠ favorable view of *me*. | ✓ |
@@ -52,6 +52,8 @@
 | **The returning founder** | Aug-25 case-round | The deployed pole: each return with new evidence; consent-gate + ask-the-no convert sequels to licensed returns. | ✓ (analyzed) |
 | **The negotiation re-approach** | Aug-25 case-round | Changed-conditions + delegated persistence; "talks about talks" = consent-negotiation as its own instrument. | ✓ (analyzed) |
 | **The door-to-door repeat** | Aug-25 case-round | Availability-resampling at population scale — volume strategies win through the no-display mechanisms across many receivers, not belief-change in any dyad. | ✓ (analyzed) |
+| **The retired star and the comeback** | Aug-31 charm_persistence | Two phases. *Absence:* the fan's Charm-belief is kept by the star's record and freezes on it; the Hope nest (Continuity its base; Validation the recorded residue) dissolves; expression suspends; scarcity layers when the absence reads chosen. *Return:* revival at prior-strength (maintenance ≠ creation), boosted by scarcity, discounted by re-pricing against a moved comparison set, gated by Coherence (the return must be coherent with the record). The worked exemplar of the corrected Charm row (`30` §1). | ✓ (analyzed) |
+| **The mentor admired from a distance for years** | Aug-21 (the coherence-paradox finding's open question) → Aug-31 | The Charm row's former standing counter-case, explained rather than logged: the belief kept by the mentor's record (ideas, standing) with occasional occasions; a frozen standing; the row's signature, not a failure of it (`30` §1 row-note; `80` M1 discharged). | ✓ (discharged) |
 
 ## 3 · Cases the theory still lacks (wanted)
 
