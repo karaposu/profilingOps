@@ -12,9 +12,9 @@ Identities: **8** · High-priority: **3** · **Essential-count (core): 1**
 
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
-| 1 | the BDA homing edits (the generic frame landed; T13 discharged) | CONSOLIDATE | HIGH | **core** | |
-| 2 | the intimate frame (the first custom frame — Caregiver species) | INVESTIGATE-FRONTIER | HIGH | supporting | |
-| 3 | the doc-layer compile-pointers (all eight docs → the generic frame) | DEVELOP | HIGH | supporting | |
+| 1 | the BDA homing edits (the generic frame landed; T13 discharged) | CONSOLIDATE | HIGH | **core** | ✓ |
+| 2 | the intimate frame (the first custom frame — Caregiver species) | INVESTIGATE-FRONTIER | HIGH | supporting | ✓ |
+| 3 | the doc-layer compile-pointers (all eight docs → the generic frame) | DEVELOP | HIGH | supporting | ✓ |
 | 4 | the daily card (morning ritual · stress re-entry · consult-time audit) | DEVELOP | MED | supporting | |
 | 5 | the custom-frame family sketch (Mission / Dialogue / Task instances) | INVESTIGATE-FRONTIER | MED | supporting | |
 | 6 | the walk-in frame re-read as a custom instance | CONSOLIDATE | LOW | peripheral | |

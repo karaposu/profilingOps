@@ -106,3 +106,5 @@ A pitch is one move in a sequence, and the *sequence-shape* is being read across
 10. Type the no, keep your implied forecasts, return only with something new — the sequence does the selling.
 
 When principles collide: gates (2, 3, 5, 7, 9) beat everything.
+
+*Compiled frame (added 2026-08-31, from the best-frame finding — `BDA/60` §12): this document compiles into the **generic frame** — **"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."** — and the walk-in frame in principle 3's note is that generic frame's **first custom instance** — **object = the product, shown; species = Self/Task; emphasis = Charm-of-product** — layered on it, never replacing it. Wear the generic frame always; put the walk-in frame on at the door and take it off on the way out. Principle 2 is Clause A read in seconds, 5 is Clause E at conviction, 7 and 9 are Clause B at the ask and at the exit.*

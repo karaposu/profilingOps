@@ -112,3 +112,5 @@ When *you* are the one offering someone a leader/advisor slot — the wise frien
 12. The cause doesn't chase; the room's verdicts are timed, not forced.
 
 When principles collide: gates (1, 2, 3, 4, 11) beat everything.
+
+*Compiled frame (added 2026-08-31, from the best-frame finding — `BDA/60` §12): this document compiles into the **generic frame** — **"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."** — plus this domain's object and species: **the slot = the cause (principle 3 — let the term carry the bigness); species = Mission-Focus; emphasis = Hope-of-trajectory (principle 9) and visible paid costs (principle 5).** Principle 2 is Clause C at exactly the backed scope — the standing self-claim this domain stresses most; principle 12 ("the cause doesn't chase") is Clause B held by the cause; principle 11's cheap dissent is what Clause B makes possible in the room. The generic frame is worn by the leader as a person; the cause is what fills its slot.*

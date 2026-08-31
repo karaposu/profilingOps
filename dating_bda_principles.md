@@ -114,3 +114,5 @@ Two disciplines that look similar and are opposites:
 10. Reserves and real selectivity — never manufactured scarcity or jealousy.
 
 When principles collide: gates (2, 3, 5) beat everything.
+
+*Compiled frame (added 2026-08-31, from the best-frame finding — `BDA/60` §12): this document compiles into the **generic frame** — **"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."** — plus this domain's object and species: **the slot = your own real life (principle 3 is Clause A verbatim); species = Self-Focus early, oscillating toward the intimate frame (`BDA/60` §12) as the pair-frame forms; emphasis = Resonance and Hope-of-trajectory, Fear only in its honest form (principle 10).** Principles 2, 3, 5 are Clauses D, A, E — the gates in this domain's words; 7 and 8 are Clause B at the escalation rungs.*

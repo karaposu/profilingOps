@@ -97,3 +97,5 @@ As parents age, their world contracts until your reliability *is* most of the re
 10. Small forecasts on rails, kept unprompted — this ledger closes.
 
 When principles collide: gates (1, 2, 7, 10) beat everything.
+
+*Compiled frame (added 2026-08-31, from the best-frame finding — `BDA/60` §12): this document compiles into the **generic frame** — **"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."** — and this domain's custom frame is **the intimate frame in its asymmetric-care setting** (`BDA/60` §12): as the parent, **the slot = who they are becoming (principle 4); species = Caregiver-Focus — toward-leg default, return-leg maintenance and never zero (principle 3 is the cost it pays); emphasis = Hope-for-their-becoming and Coherence (principle 10).** As the adult child the legs reverse — principle 8's return is the slot moving toward them in their turn. Principles 1 and 7 are what the frame must never generate (compliance; manufactured fear); 6 is Clause E under a child's detectors.*

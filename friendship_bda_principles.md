@@ -94,3 +94,5 @@ In groups, the strongest position is the **glue role played outward**: making th
 10. Weave the network and let it live; spend your in-room attention on the edges.
 
 When principles collide: gates (2, 3, 5, 9) beat everything.
+
+*Compiled frame (added 2026-08-31, from the best-frame finding — `BDA/60` §12): this document compiles into the **generic frame** — **"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."** — and this domain runs **the intimate frame at a lower duty-cycle** (`BDA/60` §12): **the slot = the friend's wellbeing when the moment is theirs, your own real life otherwise (principle 7's hibernation is the return leg at scale); species = Caregiver-/Dialogue-Focus with Self-Focus oscillation; emphasis = Resonance (the honest mirror) and Charm-of-specific-memory.** Principle 3 ("never show the ledger") is the intimate frame's retirement of the scorekeeping questions; 2 is its presence-at-cost; 5 is Clause E among equals.*

@@ -69,6 +69,8 @@ Every term this folder uses, defined the way a newcomer needs. (Owner files hold
 
 **Frame (the runtime object)** — a stance-bundle (label + expected conduct + claim-scope) held at an object: the situation, the pair, or oneself-in-context. The *worn self-frame* = a context-scoped premise about who-I-am-here + the manufactured state it implies, worn as one unit — installed by state-manufacture (assumable, not memorizable), co-generating conduct, retiring in-scope questions, coherence-maintained, and (worn in) becoming bearing. What the principles compile into; guarantees frame-consistency, never attachment. `60` §12.
 
+**The generic frame** — the best frame for daily life: the three gates said in first person at cause-level (*attention on my own real [work] · a real offer from it · no need for this to go any particular way to be whole · the same person everywhere · shown = felt*). Best because gates are monotone in every context while variables are context-dependent, so the invariant core, the default frame, and the optimum coincide (at the genus level; nesting handles ceremony). Standing scope — bearing's premise; presupposes a life. Custom frames layer on it by object slot · species · variable-emphasis with the gate-clauses invariant (first: the walk-in frame, the intimate frame). `60` §12.
+
 **Cluster 4** — the standing, never-triggered question of whether the whole theory should be re-grounded in attention as substrate. Has written reopening conditions and a determination procedure (the census). `03`, `80`.
 
 **Coherence** — see the formula section. Aspects: **Stability** (same person across time/contexts) and **Alignment** (surface matches depth). Its belief statement means *reliable*, never *finished*. `20`.
