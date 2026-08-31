@@ -13,7 +13,7 @@ Identities: **7** · High-priority: **3** · **Essential-count (core): 1**
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
 | 1 | the BDA homing edits (the definition landed as state) | CONSOLIDATE | HIGH | **core** | ✓ |
-| 2 | the best-frame inquiry (the user's declared successor) | INVESTIGATE-FRONTIER | HIGH | supporting | |
+| 2 | the best-frame inquiry (the user's declared successor) | INVESTIGATE-FRONTIER | HIGH | supporting | ✓ |
 | 3 | the walk-in frame card (the founder's season-frame, concrete) | DEVELOP | HIGH | supporting | ✓ |
 | 4 | the frame-instruments (fit pre-read; drop-test; shedding) | DEVELOP | MED | supporting | |
 | 5 | complementarity-dynamics depth (how self-frames co-author pair-frames) | INVESTIGATE-FRONTIER | MED | supporting | |
