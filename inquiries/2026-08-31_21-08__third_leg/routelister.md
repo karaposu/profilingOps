@@ -12,8 +12,8 @@ Identities: **12** · High-priority: **2** · **Essential-count (core): 1**
 
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
-| 1 | the convention-true composed landing (FR1 resolved-into-owning-files; FR3 candidate→derived; the class-scoped route; the guarded growth-source clause; M12's faces) | CONSOLIDATE | HIGH | **core** | |
-| 2 | the observation faces run (the Resonance observables in the season's window) | TEST | MED-HIGH | supporting | |
+| 1 | the convention-true composed landing (FR1 resolved-into-owning-files; FR3 candidate→derived; the class-scoped route; the guarded growth-source clause; M12's faces) | CONSOLIDATE | HIGH | **core** |✓ |
+| 2 | the observation faces run (the Resonance observables in the season's window) | TEST | MED-HIGH | supporting |✓ |
 | 3 | the FR5 one-way question (a one-legged stock — Resonance or Resonance-like?) | INVESTIGATE-FRONTIER | MED | supporting | |
 | 4 | signal-catalog-as-composition (the methodological principle; the Charm retrofit first) | INVESTIGATE-FRONTIER | MED | supporting | |
 | 5 | group stock / culture at scale (FR4-adjacent) | INVESTIGATE-FRONTIER | LOW-MED | peripheral | |
@@ -23,7 +23,7 @@ Identities: **12** · High-priority: **2** · **Essential-count (core): 1**
 | 9 | doc-layer why-notes (attend-together / bring-new-things ← the mechanism) | REFINE | LOW | peripheral | |
 | 10 | the scarcity/comparison note (expression-side flavor, ground untouched) | DIAGNOSE | LOW | peripheral | |
 | 11 | B3's next handle (person-model generativity; the deep-teacher seam) | DIAGNOSE | LOW-MED | peripheral | |
-| 12 | the extreme-horizon boundary line (the shared persistence-boundary, rider) | DIAGNOSE | LOW | peripheral | |
+| 12 | the extreme-horizon boundary line (the shared persistence-boundary, rider) | DIAGNOSE | LOW | peripheral |✓ |
 
 ## Route Records
 
