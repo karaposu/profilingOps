@@ -12,18 +12,18 @@ Identities: **12** · High-priority: **3** · **Essential-count (core): 1**
 
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
-| 1 | the composed homing hand-off (the promoted grade line + criterion note + M12 row, landed WITH rate_composition route 1) | CONSOLIDATE | HIGH | **core** | |
-| 2 | the upgraded watch (M12's intra-pair row; the sharpened falsifier; the re-pricing faces) | TEST | MED-HIGH | supporting | |
+| 1 | the composed homing hand-off (the promoted grade line + criterion note + M12 row, landed WITH rate_composition route 1) | CONSOLIDATE | HIGH | **core** |✓ |
+| 2 | the upgraded watch (M12's intra-pair row; the sharpened falsifier; the re-pricing faces) | TEST | MED-HIGH | supporting |✓ |
 | 3 | the third leg (Resonance's growth/conversion account — FR1 + FR3's joint price) | INVESTIGATE-FRONTIER | MED-HIGH | supporting | |
 | 4 | scope-capped gate-verdicts developed (three anchors; two folk predictions) | DEVELOP | MED | supporting | |
 | 5 | the two-settling-paths sentence homed at the default-crystallization block | REFINE | MED | supporting | |
 | 6 | the EC/SP standing-verdict generalization worked out per gate | DEVELOP | MED | supporting | |
 | 7 | the grade-glossary at the register head | DEVELOP | LOW-MED | peripheral | |
 | 8 | the N-legs / interface prediction (route 9 of rate_composition's customer) | INVESTIGATE-FRONTIER | MED | supporting | |
-| 9 | borrowed gate-priors written into the clause g-side | REFINE | LOW-MED | peripheral | |
+| 9 | borrowed gate-priors written into the clause g-side | REFINE | LOW-MED | peripheral |✓ |
 | 10 | the single-context corner as a doc-layer face (app-fragility; scope-capped line) | DEVELOP | LOW | peripheral | |
 | 11 | verdict-scope marks for `31`'s channel classifier | DEVELOP | LOW | peripheral | |
-| 12 | the moving-floor × gate-sampling link (one joining line) | REFINE | LOW | peripheral | |
+| 12 | the moving-floor × gate-sampling link (one joining line) | REFINE | LOW | peripheral |✓ |
 
 ## Route Records
 

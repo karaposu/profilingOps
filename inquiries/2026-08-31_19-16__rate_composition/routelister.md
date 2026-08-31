@@ -12,7 +12,7 @@ Identities: **12** · High-priority: **3** · **Essential-count (core): 1**
 
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
-| 1 | the register homing (the block's replacement lines; M12; the `02` proposal; the reconciliation note) | CONSOLIDATE | HIGH | **core** | |
+| 1 | the register homing (the block's replacement lines; M12; the `02` proposal; the reconciliation note) | CONSOLIDATE | HIGH | **core** |✓ |
 | 2 | the observation run (one window, four watches; the two cheap test-faces) | TEST | MED-HIGH | supporting | |
 | 3 | the extension's second leg (an independent derivation to promote single-leg) | INVESTIGATE-FRONTIER | MED-HIGH | supporting | |
 | 4 | the perturbation-reduction question (K5 + its consequence-map) | INVESTIGATE-FRONTIER | MED | supporting | |

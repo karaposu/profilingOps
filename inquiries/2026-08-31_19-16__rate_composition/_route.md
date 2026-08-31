@@ -6,7 +6,7 @@ Registry of concept-identities for this territory under the goal received from `
 
 | Identity | Own-depth pointer | Depth-signal | Individuation history | First-seen | Last-touched |
 |---|---|---|---|---|---|
-| the register homing | none | replacement lines · reconciliation note · M12 · B7 keystone · `02` proposal | absorbed M12/B7/02 landings | 2026-08-31 | 2026-08-31 |
+| the register homing | `BDA/80` §6 fourth-customer block (rate + extension lines replaced) + §5 M12 + B7 note; `BDA/02` row; `BDA/90` entry 31 | EXECUTED 2026-08-31 — composed pass with second_leg route 1 | absorbed M12/B7/02 landings | 2026-08-31 | 2026-08-31 |
 | the observation run | none | one window, four watches; the two cheap faces; occasion-type stratification | split from the homing | 2026-08-31 | 2026-08-31 |
 | the extension's second leg | none | candidate legs: object/co-attention; the gate channel | split from the extension's landing | 2026-08-31 | 2026-08-31 |
 | the perturbation-reduction question | none | two jobs; independent-but-calm test-edge; consequence-map attached | — | 2026-08-31 | 2026-08-31 |
