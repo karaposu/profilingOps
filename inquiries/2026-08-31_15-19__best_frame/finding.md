@@ -32,20 +32,77 @@ Everything below uses these terms. They are defined here so the document can be 
 
 > Attachment ≈ f(Charm, Hope, Fear, Resonance) × g₁(Self-Positioning) × g₂(Coherence) × g₃(Emotional Composure)
 
-**The four variables (they add).** Each is a *property-belief* — a belief about what the sender *is* (impressive / promising / threatening / world-sharing). Each alone can produce some attachment, so they sum; but their weights are context-dependent, so *which* variable matters most changes from room to room. The corpus organizes the first three by valence and time — Charm = positive, now; Hope = positive, future; Fear = negative, mostly future — and puts Resonance on its own axis (a property of the pair, not of the sender alone). Every variable is carried only by *specific* signals: a claim anyone could make counts for nothing, a demonstration counts (Signal Specificity, `BDA/10` §4) — the basis of the application docs' "demonstrate, never describe yourself."
+**The four variables (they add).**
 
-- **Charm** — the belief *"this person is high-status / competent / impressive — I look up to them; I want their approval."* Its ingredients are status, competence, and high-value signals. A Charm-dominant attachment is admiration, and it weakens as access to the person recedes. One corpus caveat: deep competence only lands on receivers able to read it (the competence-legibility limit).
-- **Hope** — the belief *"this person's future action, presence, or orientation will produce a specific kind of positive outcome for me."* Four things must all hold: it is forward-looking, positive, **mediated by the sender** (about what *they* will do or be — not about a cause or reward they merely point at), and lands on the receiver. What is hoped for comes in seven flavors, and real hopes are mixtures of them: *Exchange* (doing things together — collaborate, date, befriend) · *Attention* (being specifically seen, and continuing to be) · *Validation* (being seen as I want to be seen) · *Continuity* (they stay present and reachable) · *Generative* (my own growth through them) · *Reciprocity* (a return on what I've invested) · *Safety* (protection when I need it). "I hope this person will love me" ≈ Attention + Validation + Continuity + Safety. A Hope-dominant attachment is transactional: it dissolves when the exchange ends. Where this finding says a visibly moving life "generates Hope," it means only this: a life that moves gives the receiver concrete, sender-mediated things to hope for — exchange, growth, access.
-- **Fear** — the negative variable. The corpus deliberately keeps *two* definitions open, an unresolved fork: **threat-of-harm** — *"this person can harm me"* — and **cost-of-loss** — *"losing this person would cost me"* (power dynamics, secrets, dependency). They come apart: someone can be terrifying to lose and incapable of harm, or the reverse. Fear's detection signals are all loss-shaped: control the receiver doesn't challenge · reluctance to disengage even when disinterested · careful word choice · avoidance of confrontation. Fear alone does produce engagement, but of the *Coerced* kind — a Fear-dominant attachment **reverses** into relief the moment the threat or dependency lifts; Fear + Supplication reads as bluster, Fear + Task-Focus as respect. This finding uses Fear only in the cost-of-loss reading and only in its honestly grounded form: the wearer's real alternatives and real willingness to leave (Clause B) make losing access a genuine cost. The frame never *aims* at Fear — a Fear-dominant attachment is the worst-persisting kind — and manufactured scarcity (games, withheld availability) is its performed version, priced as fraud.
-- **Resonance** — the belief *"this person shares my world-models / values / ways of seeing — they get me."* Unlike the other three it belongs to the *pair* (both people's maps co-determine it), and it emerges when both hold the same object of attention — two strangers with the same niche obsession attach with everything else at zero. A Resonance-dominant attachment is the bonded, deep kind: it persists through absence, maintained by the shared model; it is also leadership's primary variable (follower–follower Resonance is why movements outlive founders). The frame's "honest self, honest affect → Resonance" means only that a real self can be shared — a performed one gives the receiver nothing to resonate with.
+- Each is a *property-belief* — a belief about what the sender *is* (impressive / promising / threatening / world-sharing).
+- Each alone can produce some attachment, so they sum; their weights are context-dependent, so *which* variable matters most changes from room to room.
+- How the corpus organizes them: Charm = positive, now · Hope = positive, future · Fear = negative, mostly future · Resonance = its own axis (a property of the pair, not of the sender alone).
+- Every variable is carried only by *specific* signals: a claim anyone could make counts for nothing; a demonstration counts (Signal Specificity, `BDA/10` §4). This is the basis of the application docs' "demonstrate, never describe yourself."
 
-**The three gates (they multiply).** Each is a *stance-belief* — a belief about *how* the sender is: where their attention points, whether they are consistent, whether they are regulated. A failure on any one destroys the receiver's ability to form a stable belief about the sender at all, which is why they gate rather than add: a gate near zero zeroes everything else, whatever the variables say. Their shared theme is reliability, and each has its own failure signature — the attribution observers actually make.
+- **Charm** — the belief *"this person is high-status / competent / impressive — I look up to them; I want their approval."*
+  - Ingredients: status, competence, high-value signals.
+  - Charm-dominant attachment is admiration; it weakens as access to the person recedes.
+  - Caveat: deep competence only lands on receivers able to read it (the competence-legibility limit).
 
-- **Self-Positioning (g₁)** — where the sender's attention is aimed, as the receiver reads it. Its good pole is **non-extractive attention**: attention not oriented toward harvesting approval, validation, or a *response* from the person in front of you (the word "response" is load-bearing — an outburst demanding a reaction is extractive even though it seeks no approval). Its central property is **outcome-independence**: attention whose resolution doesn't depend on the other person's response. Its failure pole is **Supplication**: attention whose resolution *does* depend on their response — hedging, over-explaining, permission-seeking, approval-harvesting, and the needy self-attention of "tell me I'm okay." Failure signature: **devaluation** — "this guy doesn't deserve this"; read in seconds.
-- **Coherence (g₂)** — the belief *"I can form a reliable model of this person."* (Reliable, not finished — being fully figured out is a different axis, outside the formula.) Two aspects: **Stability** — the same core behavior and priorities across work, home, social life, and crisis, and across months; and **Alignment** — surface matches depth, what you present is what you are (the stable hypocrite has Stability without Alignment; the fluctuating sincere person has Alignment without Stability). Failure signature: **Model-Collapse** — "I can't figure out who they really are" / "they're different every time"; read only over time, across occasions.
-- **Emotional Composure (g₃)** — the capacity to regulate emotional and physiological state under pressure: staying present and functional when stressed, challenged, or disrupted. Aspects: physiological regulation (body, voice, breath), affective regulation, and recovery speed (time back to baseline). Failure signature: **Contagion-Drain** — dysregulation transfers its load to the observer: "exhausting to be around," "I feel worse after talking with them"; read instantly. Controlled, proportionate anger leaves this gate intact; *performed* feeling fails Coherence's Alignment aspect instead.
+- **Hope** — the belief *"this person's future action, presence, or orientation will produce a specific kind of positive outcome for me."*
+  - Four requirements, all must hold: forward-looking · positive · **mediated by the sender** (about what *they* will do or be — not a cause or reward they merely point at) · lands on the receiver.
+  - Seven flavors of what is hoped for (real hopes are mixtures of them):
+    - *Exchange* — doing things together: collaborate, date, befriend
+    - *Attention* — being specifically seen, and continuing to be
+    - *Validation* — being seen as I want to be seen
+    - *Continuity* — they stay present and reachable
+    - *Generative* — my own growth through them
+    - *Reciprocity* — a return on what I've invested
+    - *Safety* — protection when I need it
+  - Example: "I hope this person will love me" ≈ Attention + Validation + Continuity + Safety.
+  - Hope-dominant attachment is transactional: it dissolves when the exchange ends.
+  - In this finding, "a moving life generates Hope" means only this: a life that moves gives the receiver concrete, sender-mediated things to hope for — exchange, growth, access.
 
-**A correction this rewrite made.** Earlier text in this inquiry (and in the application docs) labeled Clause E "Emotional Congruence" and treated it as the third gate. That label is not a corpus term. What Clause E — *"what I show is what I feel"* — actually names is **Coherence's Alignment aspect** (surface matches depth), which is also Composure's affect-congruence signal. The third gate proper, **Emotional Composure**, has no clause of its own: the frame supplies it through Clause B (a state that needs nothing from this exchange has nothing to dysregulate) and through the card's stress re-entry (recovery = re-say B). Whether the premise should carry an explicit composure clause is left open for the route-map. Clause E is relabeled accordingly below; no other claim changes.
+- **Fear** — the negative variable. The corpus deliberately keeps *two* definitions open — an unresolved fork:
+  - **threat-of-harm** — *"this person can harm me."*
+  - **cost-of-loss** — *"losing this person would cost me"* (power dynamics, secrets, dependency).
+  - They come apart: someone can be terrifying to lose and incapable of harm, or the reverse.
+  - Detection signals are all loss-shaped: control the receiver doesn't challenge · reluctance to disengage even when disinterested · careful word choice · avoidance of confrontation.
+  - Fear alone does produce engagement — but of the *Coerced* kind: a Fear-dominant attachment **reverses** into relief the moment the threat or dependency lifts.
+  - Combinations: Fear + Supplication reads as bluster; Fear + Task-Focus reads as respect.
+  - In this finding, Fear appears only in the cost-of-loss reading and only honestly grounded: the wearer's real alternatives and real willingness to leave (Clause B) make losing access a genuine cost. The frame never *aims* at Fear (a Fear-dominant attachment is the worst-persisting kind); manufactured scarcity — games, withheld availability — is its performed version, priced as fraud.
+
+- **Resonance** — the belief *"this person shares my world-models / values / ways of seeing — they get me."*
+  - Unlike the other three, it belongs to the *pair*: both people's maps co-determine it.
+  - It emerges when both hold the same object of attention — two strangers with the same niche obsession attach with everything else at zero.
+  - Resonance-dominant attachment is the bonded, deep kind: it persists through absence, maintained by the shared model.
+  - Leadership's primary variable: follower–follower Resonance is why movements outlive their founders.
+  - In this finding, "honest self, honest affect → Resonance" means only this: a real self can be shared; a performed one gives the receiver nothing to resonate with.
+
+**The three gates (they multiply).**
+
+- Each is a *stance-belief* — a belief about *how* the sender is: where their attention points, whether they are consistent, whether they are regulated.
+- A failure on any one destroys the receiver's ability to form a stable belief about the sender at all — so they gate rather than add: a gate near zero zeroes everything else, whatever the variables say.
+- Shared theme: reliability. Each has its own failure signature — the attribution observers actually make.
+
+- **Self-Positioning (g₁)** — where the sender's attention is aimed, as the receiver reads it.
+  - Good pole: **non-extractive attention** — attention not oriented toward harvesting approval, validation, or a *response* from the person in front of you. ("Response" is load-bearing: an outburst demanding a reaction is extractive even though it seeks no approval.)
+  - Central property: **outcome-independence** — attention whose resolution doesn't depend on the other person's response.
+  - Failure pole: **Supplication** — attention whose resolution *does* depend on their response: hedging, over-explaining, permission-seeking, approval-harvesting, the needy self-attention of "tell me I'm okay."
+  - Failure signature: **devaluation** — "this guy doesn't deserve this." Read in seconds.
+
+- **Coherence (g₂)** — the belief *"I can form a reliable model of this person."* (Reliable, not finished — being fully figured out is a different axis, outside the formula.)
+  - Aspect 1, **Stability** — the same core behavior and priorities across work, home, social life, and crisis, and across months.
+  - Aspect 2, **Alignment** — surface matches depth; what you present is what you are. (The stable hypocrite has Stability without Alignment; the fluctuating sincere person has Alignment without Stability.)
+  - Failure signature: **Model-Collapse** — "I can't figure out who they really are" / "they're different every time." Read only over time, across occasions.
+
+- **Emotional Composure (g₃)** — the capacity to regulate emotional and physiological state under pressure: staying present and functional when stressed, challenged, or disrupted.
+  - Aspects: physiological regulation (body, voice, breath) · affective regulation · recovery speed (time back to baseline).
+  - Failure signature: **Contagion-Drain** — dysregulation transfers its load to the observer: "exhausting to be around," "I feel worse after talking with them." Read instantly.
+  - Controlled, proportionate anger leaves this gate intact; *performed* feeling fails Coherence's Alignment aspect instead.
+
+**A correction this rewrite made.**
+
+- Earlier text in this inquiry (and in the application docs) labeled Clause E "Emotional Congruence" and treated it as the third gate. That label is not a corpus term.
+- What Clause E — *"what I show is what I feel"* — actually names is **Coherence's Alignment aspect** (surface matches depth); it is also Composure's affect-congruence signal.
+- The third gate proper, **Emotional Composure**, has no clause of its own. The frame supplies it through Clause B (a state that needs nothing from this exchange has nothing to dysregulate) and through the card's stress re-entry (recovery = re-say B).
+- Whether the premise should carry an explicit composure clause is left open for the route-map.
+- Clause E is relabeled accordingly below; no other claim changes.
 
 **Genus and species of attention.**
 
@@ -157,17 +214,38 @@ One clarification the critique step forced: the monotonicity holds at the **genu
 
 The frame's premise is the gates, spoken as a sentence about oneself. Each clause names a gate's *cause*, never its display:
 
-- **A (the cause of Self-Positioning):** *"My attention is on my own real [work]."* Where attention is aimed is upstream of the elevated posture — the earlier Self-Positioning findings' own causal claim is that attention-direction *produces* posture, not the reverse — so the frame names the attention, and the posture follows. The bracket is the record-slot: whatever the wearer actually has (a craft, a business, a study, a life being built).
-- **B (outcome-independence — the second half of Self-Positioning):** *"I don't need this to go any particular way to be whole."* Reworded by the critique step from "I need nothing from this exchange." BDA defines outcome-independence as attention *whose resolution doesn't depend on the other person's response* — a claim about what the state's resolution depends on, not about wants. Wanting the sale is fine; **needing this exchange to resolve a particular way in order to be whole** is Supplication, and that is what the clause denies. It also **passes the extraction-test by construction** (a state that doesn't need their response extracts nothing from them) and produces Exit-Willingness — both exits, yours and theirs, become real.
-- **C (the backed offer):** *"I have something real to offer from it."* This is the standing self-claim, sized exactly to what the record supports: the offer is what the work behind it can back. It is Charm's generator — attention on the real thing makes specificity and demonstration arrive for free, and those, not claims, are what build Charm.
-- **D (Coherence):** *"I am the same person here as everywhere."* One story across contexts; kept forecasts follow from it.
-- **E (Alignment — shown = felt):** *"and what I show is what I feel."* Shown affect matches felt affect — Coherence's Alignment aspect, and the anti-performance commitment (no display without its state behind it). It also carries BDA's genuine-need case: need *shown* transparently is not Supplication; need hidden behind a display of not-needing is. (Label corrected — see the reader's key; earlier text called this "Emotional Congruence.")
+- **A (the cause of Self-Positioning):** *"My attention is on my own real [work]."*
+  - Where attention is aimed is upstream of the elevated posture — the earlier Self-Positioning findings' own causal claim is that attention-direction *produces* posture, not the reverse. So the frame names the attention, and the posture follows.
+  - The bracket is the record-slot: whatever the wearer actually has (a craft, a business, a study, a life being built).
+
+- **B (outcome-independence — the second half of Self-Positioning):** *"I don't need this to go any particular way to be whole."*
+  - Reworded by the critique step from "I need nothing from this exchange."
+  - BDA defines outcome-independence as attention *whose resolution doesn't depend on the other person's response* — a claim about what the state's resolution depends on, not about wants.
+  - Wanting the sale is fine; **needing this exchange to resolve a particular way in order to be whole** is Supplication, and that is what the clause denies.
+  - It passes the extraction-test by construction (a state that doesn't need their response extracts nothing from them) and produces Exit-Willingness — both exits, yours and theirs, become real.
+
+- **C (the backed offer):** *"I have something real to offer from it."*
+  - This is the standing self-claim, sized exactly to what the record supports: the offer is what the work behind it can back.
+  - It is Charm's generator — attention on the real thing makes specificity and demonstration arrive for free, and those, not claims, are what build Charm.
+
+- **D (Coherence — Stability):** *"I am the same person here as everywhere."*
+  - One story across contexts; kept forecasts follow from it.
+
+- **E (Coherence — Alignment; shown = felt):** *"and what I show is what I feel."*
+  - Shown affect matches felt affect — Coherence's Alignment aspect, and the anti-performance commitment (no display without its state behind it).
+  - It also carries BDA's genuine-need case: need *shown* transparently is not Supplication; need hidden behind a display of not-needing is.
+  - (Label corrected — see the reader's key; earlier text called this "Emotional Congruence.")
 
 **The generic frame:**
 
 > ***"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."***
 
-Five clauses in four sentences, four commitments: A + B together are the Self-Positioning gate; C is the self-claim that gate licenses; D and E are Coherence's two aspects (Stability, Alignment). The third gate, Emotional Composure, is carried by B's state and by the stress re-entry rather than by a clause of its own (see the correction in the reader's key).
+Five clauses in four sentences, four commitments:
+
+- A + B together are the Self-Positioning gate;
+- C is the self-claim that gate licenses;
+- D and E are Coherence's two aspects (Stability, Alignment);
+- the third gate, Emotional Composure, is carried by B's state and by the stress re-entry rather than by a clause of its own (see the correction in the reader's key).
 
 **How each variable gets generated** — the variable-generator map:
 
@@ -212,14 +290,31 @@ Custom frames — frames for particular recurring situations — **layer on top*
 
 **The gate-clauses never vary.** The walk-in frame already landed in the parent finding is the first custom instance (object = the product; species = Self/Task; emphasis = Charm-of-the-product).
 
-This account names the custom layer's *first* item by order alone, without deriving it: **the intimate (Caregiver) frame** — because the generic frame's characteristic failure is **over-application** into intimacy (the partner who is "outcome-independent" at home reads cold). That failure is the runtime form of a paradox the earlier Self-Positioning findings carry — attention on the other person is *both* what devotion is made of (Caregiver-Focus) *and* what Supplication is made of (chasing their response): the same surface act, split only by outcome-independence — and its committed resolution, alternating Caregiver-Focus with Self-Focus (`BDA/21` §7), is the custom layer's first job.
+This account names the custom layer's *first* item by order alone, without deriving it: **the intimate (Caregiver) frame.**
+
+- Why first: the generic frame's characteristic failure is **over-application** into intimacy — the partner who is "outcome-independent" at home reads cold.
+- That failure is the runtime form of a paradox the earlier Self-Positioning findings carry: attention on the other person is *both* what devotion is made of (Caregiver-Focus) *and* what Supplication is made of (chasing their response) — the same surface act, split only by outcome-independence.
+- Its committed resolution — alternating Caregiver-Focus with Self-Focus (`BDA/21` §7) — is the custom layer's first job.
 
 ### 5 · Backing, wearability, the floor, the alarm
 
-- **Backing is wearer-relative:** the premise is assumable only if the slot holds something real. **The generic frame presupposes a life; it is not a substitute for one.** Its precondition is exactly what the calculation program cultivates — the presence-path (attention on one's own real work, daily) builds the record the frame refers to. An empty slot yields performed wearing — the busy-nothing: a person acting occupied with nothing behind it — and the backing channels (tempo, specificity, depth off-script, conduct when unwatched) read it.
-- **Wearability:** five short clauses; the state-manufacture is **attention-redirection** — the cheapest manufacture there is (no emotion to conjure; a direction to hold), and the cost falls with practice. The parent finding's drop-test (can you take a frame off? — a frame you cannot remove owns you) resolves here by a striking route, graded honestly: Clause D makes the off-stage self *this same person*, so there is **nothing to take off** — the generic frame is the one frame that is not a costume — while putting it *on* still costs attention, a cost that falls along the presence-path toward bearing's asymptote (bearing is the frame you no longer have to wear).
-- **The floor:** when no real work can be attended to (grief, illness, exhaustion), the frame drops to Clauses D + E alone — a **Coherence-preserving hold**, admittedly lower-attachment, whose value is that nothing performed enters your record, so nothing gets re-priced later and re-entry is cheap.
-- **The alarm:** the frame diagnoses its own breaks — when the slot empties or a challenge lands, the retired approval-questions **flood back** (the parent finding's flooding-signature). Attention drifting to *their* reaction is the signal to re-enter the frame.
+- **Backing is wearer-relative.**
+  - The premise is assumable only if the slot holds something real. **The generic frame presupposes a life; it is not a substitute for one.**
+  - Its precondition is exactly what the calculation program cultivates: the presence-path (attention on one's own real work, daily) builds the record the frame refers to.
+  - An empty slot yields performed wearing — the busy-nothing: a person acting occupied with nothing behind it — and the backing channels (tempo, specificity, depth off-script, conduct when unwatched) read it.
+
+- **Wearability.**
+  - Five short clauses; the state-manufacture is **attention-redirection** — the cheapest manufacture there is (no emotion to conjure; a direction to hold), and the cost falls with practice.
+  - The parent finding's drop-test (can you take a frame off? — a frame you cannot remove owns you) resolves here by a striking route, graded honestly: Clause D makes the off-stage self *this same person*, so there is **nothing to take off** — the generic frame is the one frame that is not a costume.
+  - Putting it *on* still costs attention — a cost that falls along the presence-path toward bearing's asymptote (bearing is the frame you no longer have to wear).
+
+- **The floor.**
+  - When no real work can be attended to (grief, illness, exhaustion), the frame drops to Clauses D + E alone — a **Coherence-preserving hold**, admittedly lower-attachment.
+  - Its value: nothing performed enters your record, so nothing gets re-priced later and re-entry is cheap.
+
+- **The alarm.**
+  - The frame diagnoses its own breaks: when the slot empties or a challenge lands, the retired approval-questions **flood back** (the parent finding's flooding-signature).
+  - Attention drifting to *their* reaction is the signal to re-enter the frame.
 
 ### 6 · The card
 
