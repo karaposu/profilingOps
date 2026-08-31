@@ -1,0 +1,214 @@
+# 60 · The Prescriptive Layer — Guidance, Not Description
+
+> **⚠️ BANNER — read before anything below.** This file is **advice**: guidance about what to cultivate for intended outcomes. It is **not** an empirical claim about what emerges where, and nothing in it is validated. The descriptive theory lives in files 10–50 and stays clean of imperatives; this file is the only place advisory content is allowed (design rule 5; the theory's own iteration-3.1 principle). Status: this layer had **zero worked cases** for four months; its first field test is the leadership-as-calculation case (2026-08-24), whose observations count as *evidence toward* validation — never validation itself.
+
+## 1 · The cultivation target
+
+**Outcome-independence** (defined descriptively in `21` §1): attention whose resolution doesn't depend on the counterparty's response — staying on doing the thing well rather than on how the other person is reacting or whether you will win. Everything else here serves it. Two derived encouragements the descriptive layer licenses: deciding from your own premise is read positively **regardless of whether the decision turns out well** (no outcome term); and the framework can correct **the posture you decide from, never your calls**.
+
+## 2 · Species-context-fit (the lookup table)
+
+Which attention-configuration to cultivate, per context — *prescriptive*, not a claim about what empirically appears:
+
+| Context | Cultivate | Note |
+|---|---|---|
+| Value-establishing (cold outreach, approach, sales first-contact) | **Self-Focus** | the LinkedIn case |
+| Established trusting relationships | **Caregiver-Focus** with Self-Focus oscillation | healthy rhythm, `21` §7 |
+| Hierarchical / professional | **Task-Focus** or **Self-Focus** | role-dependent |
+| Caring / parenting / mentoring | **Caregiver-Focus** | non-extractive attention on growth |
+| Performance / craft | **Task-Focus** | performance-psychology pedigree |
+| Cause-driven leadership | **Mission-Focus** | attention visibly on the cause |
+| Intellectual dialogue | **Dialogue-Focus** | shared inquiry |
+| Contemplative / spiritual | **Transcendent-Focus** | rare professionally |
+
+**Where low Self-Focus is appropriate and healthy** (do not pathologize): genuine vulnerability and authentic need, transparently expressed · transparent power asymmetry (intern-to-CEO) · intimate high-warmth conversation (mutual other-focus is the target) · ritual/ceremonial contexts (condolence, apology, formal gratitude).
+
+## 3 · The audits
+
+**The 5-question audit** (quick, per outgoing message, value-establishing contexts):
+1. Does my premise reflect my priorities (selecting/offering/asserting) or their approval (permission-requesting, justifying my right to write)?
+2. How many clauses explain why I'm writing / why I'm qualified / why I deserve attention?
+3. Do I elaborate beyond what the point requires — because I'm tracking their reaction?
+4. Does my close allow them not to reply, or does it extract a response?
+5. Is my attention genuinely on my own agenda, or on securing their response? (And does that show?)
+
+**The tiered calibration audit** (finer, cross-context):
+- **Gateway:** *"Am I okay if they don't respond favorably?"* Genuine YES → likely well-calibrated, continue. NO or unsure → run the full seven. **Gateway-YES is provisional** — if outcomes surprise you, run the full audit anyway; self-deception in one-question form is a real risk.
+- **Full 7-point composite** (independent — each catches a distinct miscalibration): 1 **Context** — which of the eight contexts am I in? 2 **Species** — which configuration is active for me? 3 **Fit** — is it right for this context (table above)? 4 **Outcome-independence** — am I okay if they don't respond favorably? *(the decisive test)* 5 **Internal state** — grounded or anxious during the exchange? 6 **Counterparty curve** — was their attention rising or falling? 7 **Exchange quality** — mutual benefit, or extraction/drain?
+- All pass → high confidence; any fail → that check names the specific miscalibration. Over 20–100 uses the audit becomes a pattern-surfacer: your default species per context, your failure sub-type, your collapse triggers ("I supplicate under high-status counterparties").
+
+## 4 · What "calculation" honestly means (the four forms)
+
+Numeric conduct-calculus is **dead** (no calibrated weights; categorical detection; unvalidated) — and even eventual calibration would revive numeric *reading of other people*, never numeric *conduct* (no quantity of numbers makes a faked display earn like a real one). What survives is structured qualitative judgment — how expert fields run under pressure anyway:
+
+1. a **lookup** — the species-context-fit table;
+2. a **criterion** — for any candidate skill or advice: *does it touch the five-signal catalog or the cultivation target? if not, skip it* (this single test is what shrinks "social dynamics is a huge field");
+3. a **self-audit** — §3, as baseline and periodic check;
+4. **one pre-committed move** — §6.
+
+**What the framework compresses is the search, not the practice**: it supplies the practice-target specification (the hard part, per the skill-acquisition field); the repetitions still cost what practice costs — daily, unglamorous, months-scale.
+
+## 5 · The display path, priced (not banned)
+
+The engineer's temptation is script-engineering: build the playbook, perform the displays. The honest price: **display works in one direction** (a displayed cause still recruits; performers live on it) **and decays toward whatever is actually backed** — caught in the moment (the calibrating performer reads as approval-fishing "even if technically competent") or slowly (the decay arc, `30` §6). A goal of *durable* leadership therefore selects the backed path by arithmetic, not sermon. The manipulation worry resolves the same way: display-selection aimed at extracting reactions is exactly what the standing-gate punishes; cultivating the state and attending to the work is non-extractive by definition. Even the display professions voted for backing (the Stanislavski lineage trains manufacturing the real state, not assembling its signs). **Boundary zone, held open:** rehearsed and prepared forms (a practiced opener) cannot be adjudicated until **backing-observables** answers (`80`, the gate). Until then: preparation-of-*state* is treated as safe; preparation-of-*display* is the zone. **Gate rule: no display-targeted training is designed before backing-observables answers** — practicing a display without a backing-check is practicing a performance.
+
+## 6 · The one move (the entire fast half)
+
+> **Put your attention back on the work.** Not on the room, not on how you're coming across — on the standard, the problem, the thing being made.
+
+Why one move and only this one: in-the-moment display-selection is the documented failing pattern; the attention-move operates *upstream* of display (signals leak from where attention actually is — move the attention, the signals follow, and what observers read is genuine because it is). Grounding: deployed anger (attention-on-the-standard holding under fire earns respect) · the Stoic dichotomy of control (the same move as a millennia-old daily practice) · the architecture itself (the gate reads attention-direction). Form: aviation's — **calculate slow, act fast**; pre-commit and rehearse in calm, fire without deliberation. **It doubles as the recovery protocol:** catch yourself hedging or over-justifying → stop cleanly (no apology-spiral — that would be more unprompted self-justification) → attention back on the work. One move, two doors. Honest limit: its real-moment effectiveness is untested (the loop instrument would test it); nothing here operates in real time.
+
+## 7 · The practice traditions (references, never imports)
+
+- **Stoic dichotomy of control** (Epictetus, Marcus Aurelius): daily journaling and evening review separating what is up to you (attention, action, response) from what is not (others' reactions, outcomes) — "IS outcome-independence in daily discipline."
+- **Performance psychology:** pre-performance routines, process cues, body-scan grounding — task-focus cultivation.
+- **Rogers' three conditions** for Caregiver-Focus: congruence (*genuine, not performing* — the backing requirement stated inside the tradition itself), unconditional positive regard, empathic understanding.
+- **Buddhist non-grasping / beginner's mind** — one-line parallel only; no metaphysics imported.
+- For Coherence and Composure cultivation pointers, see `20` §3–4.
+
+## 8 · The program (assembled instruments)
+
+| Element | What it is | Working-check |
+|---|---|---|
+| Target | outcome-independence | the tiered audit (§3) as baseline + periodic |
+| Configuration | the table-row for your context | attention observably on the work |
+| Trainables | the five signals: decide from your premise · exit cleanly · don't defend unprompted · tolerate silence · (Withholding — with care: double-edged) | the catalog's behavioral descriptions (`21` §4) — **training-design gated**, §5 |
+| Practice | the traditions (§7) | happening daily, or not |
+| Review | evening review of the day's significant exchanges, PRAGMA's dimensions as checklist vocabulary (involved? controlling? dense? what intent?) | done nightly, or not |
+| The move | §6 — entry and recovery | the evening review catches its firings |
+| Endpoint | **bearing** — the stable posture that "becomes part of what others call character" | **others describe you differently** (slow; needs the audit baseline to compare) |
+
+These compose into the one-page **calculation card**: *situation → table-row → target-check → the five signals → the one move.*
+
+**The claim-read (added 2026-08-31; source: the ego/self-focus finding — machinery at `21` §8, `40` §1). Whom to follow, seek as an advisor, or hire into a covering role — read their standing self-claim on conduct, convergence-only (the gauge's discipline inherited: no single read licenses):**
+
+1. **Defended, not qualified** — under direct challenge, does the claim hold its scope calmly, or instantly hedge ("well, I'm not really an expert…")? The chronic qualifier holds no standing claim, however capable.
+2. **Enacted** — when slots inside the claimed scope are actually offered (the decision, the responsibility, the advisory role), are they *taken*? Repeated dismissals = the claim absent at standing scope (occurrent brilliance notwithstanding — the good answer is not the role).
+3. **Off-stage persistent** — does the claimed identity operate unwatched (the strategist who strategizes for no audience), or only where credit accrues?
+4. **Backed** — no leakage, no importance-theater: the claim carried without monitoring its reception (`21` §5's channels apply to self-claims directly).
+5. **Scoped where** — map the claim's actual domain before relying on it: strong-in-craft ≠ willing-to-direct; the vizier-shaped claim advises but won't decide; a claim wider than its backing is the decay-bound kind.
+
+**Read-outs:** all five present in a scope you need covered → a followable/hirable claim there. Reads 1–4 present but **2 absent** → the dialogue-peer: consume the occurrent form (opinions, peer-to-peer), never re-offer the standing slot (declines accrue). Read 4 failing with 1 loud → grandiosity; expect the arc. *(A GO licenses seeking their cover — never entitles you to it: the grant is theirs to give and yours to accept, both freely.)*
+
+**The grant-craft (added 2026-08-31; source: the claim-formation finding — machinery at `21` §8). Forming claims in others — the mentor's, parent's, and leader's shared instrument:**
+
+- **Never argue with a self-no — grant instead.** Arguing with someone's self-discount makes them *defend* it (rehearsed reasons deepen the "not me" position — the never-argue rule, reflexive). The working protocol for the person whose record outruns their self-read is **evidence, not argument**: issue a scoped grant, supply conversion-occasions, and let the outside-stream speak.
+- **The two-test — inseparable from every grant:** a legitimate formative grant is **record-moored** (scoped slightly ahead of an actual record it references — "you ran the last two launches; run this quarter's") and **portable** (aimed at filling the grantee's *own* ledger — a claim honored anywhere, not only in your shadow). Fail either test and you are in the abuse-shapes: **unmoored-grant dependency** ("you're special," referencing nothing, honored only inside the granting context — the cult's formation-face) or **claim-suppression** (systematic withholding below the record). Both are conduct-readable by the test itself.
+- **The milestone-grant ladder** (teams): pre-registered scopes granted on evidenced record, never on tenure — the apprenticeship structure, run deliberately. Its necessity-form is the **brevet**: a grant ahead of record under pressure, with explicit conversion-expectation *and reversion-possibility* built in.
+- **Handling the granted-unconverted claim:** a fresh promotion is a claim riding term-cover with an empty ledger — give conversion-occasions in the *new* domain and don't stress-test the claim yet (scope-migration — a craft-record under a direction-grant — is the standing trap; the corrective is occasions, not confidence).
+- **And read the room's effect on yourself:** deference-expressions are grant-events in *your* stream — a yes-room pumps your claim past your record. Cheap dissent (`40` §1) is your own self-read's protection.
+
+## 9 · The excess-audit method (generalizable)
+
+Run a person's **surpluses**, not just their lacks, through the catalog: the technical temperament's audit dissolved two feared deficits (small talk, allure), relocated one (expression → legibility-work), and found the unfeared risk (Self-Justification-Density excess). One worked case; other temperaments unworked (`80`).
+
+## 10 · The Return Doctrine (sequences: whether and how to return after a no)
+
+*Source: the insistence finding (`inquiries/2026-08-25_10-32__insistence_versus_exit_willingness/finding.md`); descriptive machinery in `41` §7. Same banner as everything here: guidance, not description.*
+
+1. **Consent-gate first:** an invited return ("come back in September") is not insistence — get invitations when you can.
+2. **Ask the no its type**, with the no offered as the easy option: *"should I check back when the season ends — or is this a no?"* Offering the exit is Exit-Willingness displayed; the answer converts the sequence into a licensed one. (Phrase it so the no really is easy — a pressured version crystallizes soft no's; treat polite false licenses as availability-no's the budget catches next round.)
+3. **The return-budget:** return only with something new or a changed condition ("I'm back because something is different" is the cleanest non-needy premise); spaced, composed; the budget's exhaustion is the stopping rule.
+4. **Pay the toll:** each return spends receiver-availability that was never volunteered — carry value in the visit itself.
+5. **The standing artifact:** let the live demo (their-own-menu when possible) insist continuously at zero display-cost — the object returns so the person doesn't have to.
+6. **Delegated persistence:** let real third parties and real usage carry re-raises; manufactured mentions are a Coherence time-bomb.
+7. **The deployed exit:** when the budget is spent, one clean close with the door stated open — then genuinely do not monitor the silence (its full discrimination from leaving-to-be-chased inherits the backing-observables gate).
+8. **Watch for unprompted re-engagement** after natural easing — the belief-change signature; a yes that needed constant pressure was the excluded kind.
+
+Respect **reasoned no's**; retry only availability- and never-registered-no's. And remember the sequence is itself readable: each successive return needs *more* exit-evidence, not less.
+
+**Phrasing the ask-the-no** *(developed 2026-08-25; the move's two failure paths — crystallizing a soft no, collecting false licenses — are wording-level, so wording is the mitigation)*:
+
+- **Design rules:** the no is the *last* branch offered and the socially cheapest to take (offering the exit IS Exit-Willingness displayed) · never demand a verdict — offer **typed futures** ("come back when X, or leave it?"), not yes/no-now · attach the return to a **specific changed condition**, never "sometime" (vague licenses are a false-license factory).
+- **Forms by moment:**
+  - *Walk-in first no:* "Should I swing by after the season calms down — or is this a pass for you? Either's fine."
+  - *Post-demo no:* "Is that a not-now, or a not-for-us? Genuinely useful to know — no is a fine answer."
+  - *Budget nearly spent:* "I've shown you what I've got, so I'll leave it here — the demo stays live. Want me to check in when [the balance panel ships / the season ends], or leave it entirely?"
+  - *The deployed exit (step 7):* "Taking this off your plate — door's open if the season changes anything." (No question at all; the exit itself.)
+- **False-license detection** (three signals): the license came *instantly*, politeness-tempo, without a beat of consideration · the specificity was all yours — they named no time or condition, just nodded · at the licensed return, zero recall or preparation ("oh — right, you again"). Handle as an availability-no: the budget rule governs anyway, and after one signal-three return, the next ask offers the exit even more prominently. (Context note, flagged: hospitality-politeness cultures produce more instant-yes brush-offs — weight the specificity signal higher there.)
+- **Never phrase:** "just following up" (contentless — a budget violation) · "have you had a chance to think about it?" (extraction-shaped — it demands their labor and delivers nothing) · any counting of your own visits ("I've come three times now…") — that is the sequence-leak said aloud, against yourself.
+
+## 11 · The Verdict-Timing Doctrine (whether, when, and at what weight an ask should exist)
+
+*Source: the confrontation-milestones finding (`inquiries/2026-08-26_11-28__confrontation_milestones/finding.md`); descriptive machinery in `41` §8. This section generalizes what §10 already practiced: §10 governs conduct *after* a no and makes the no cheap *once an ask exists*; this section governs the earlier lever — whether the ask exists at all, when, and how heavy. §10's "soft-no-crystallization avoided" was this doctrine's fingerprint. The consent-gate is untouched throughout: once any ask exists, the no stays cheap.*
+
+**The two axes (never fuse them):** every opening has a **frame-clarity** axis (what this is — always owed; covert frames are the pretext-hazard) and a **verdict-weight** axis (what stance it demands now — always sized). "Full clarity of intent" means the frame, not a maximal declaration: *"wanted to say hi"* clarifies everything and demands a two-minute stance; *"I like you, go out with me"* demands a dating-stance. Clarity absolute; weight variable.
+
+**The window — when the ask should exist:**
+- **Capacity:** ask-weight ≤ accumulated evidence, read on the **capacity-gauge** (full checklist below). Under uncertainty, size the ask down — the sized-down ask samples almost nothing and is always available.
+- **Actionability:** a yes must be enactable from their situation (standing relationship; frozen budget; absent decision-maker). **Asking when a yes is unactable converts "not actable now" into a declared no — the worst trade available.** The no's own content usually names the blocker.
+- **The close (the delay side has structure):** ambiguity has a shelf-life — **default crystallization** settles unnamed frames into categories by itself ("we're friends"), and near capacity-peak *any* forcing-source can demand the verdict under conditions no one chose; late in the window, the deliberate ask beats waiting. Delay is legitimate only as **readiness-waiting** (rising trajectory + a planned verdict-moment); delay without an intended ask is hiding, and the orbiter's own budget/horizon price it (indefinite waiting on a maybe is chasing with patience). *(The close's full dynamics — the hardening triple, liveness, the three outcomes (converge / stall / forced), the three-legged reopening cost, and the derivation of the near-peak rule as capacity/contact-surface co-growth — are developed at `41` §8, "Window-close dynamics." Operational upshots here: non-asking is not neutral (the default label reads it as confirmation); the close arrives silently (no signal marks it); and reopening a settled frame costs more than the ask you deferred.)*
+
+**The capacity-gauge (the pre-ask checklist, full form)** *(developed 2026-08-26; every read is concrete conduct, never impression — the projection-hazard's mitigation is that each line must name something that happened)*:
+
+1. **Their-side specificity** — do they contribute content about you/the thing unprompted? (Questions asked back; details they add; counter-proposals. Zero their-side content = the false-license mark, pre-ask.)
+2. **Tempo** — are responses *processed* (a beat of consideration; content that engages what you actually said) or politeness-speed? *(Hazard, inherited from §10's context note: hospitality-politeness cultures inflate this signal's false-GO — weight specificity higher there.)*
+3. **Recall** — do earlier contacts leave traces they surface themselves ("you mentioned X last time")? Recall is accumulation made visible.
+4. **Unprompted re-engagement** — do they initiate across gaps? The single strongest read (the corpus's cleanest positive signature everywhere it appears).
+5. **Readiness-signals** — contexts *they* create (the prolonged conversation, the arranged overlap, the alone-context) and clarifying probes *they* float ("so what is this?", "do you do this with everyone?"). Their probe is their verdict-moment arriving — answer it truthfully (three-binds line, below).
+6. **Actionability** — can a yes be *enacted* from their situation (standing commitments; budget; authority; timing)? High reads on 1–5 with actionability absent still means HOLD or the sized-down ask — never the full one.
+
+**Verdict scale (convergence-only, like every corpus instrument — no single read licenses):** **GO** = several independent reads agree *and* actionable → the carried ask at the weight the reads support. **SIZE-DOWN** = mixed or thin → ask the smaller ask (the Tuesday-demo, the coffee, the one-more-conversation). **HOLD** = reads absent or negative → stay in the additive mode, and check the orbiter bound (a HOLD without a rising trajectory and a planned moment is not patience, it is avoidance). Per-instance certainty is not on the scale. And a GO licenses an *ask*, never a yes — the gauge reads their state; it confers no entitlement.
+
+**The liveness-meter (the gauge's second read — added with the window-close finding):** the same signals read **window-position**, not just capacity. Readiness-signals *present* (their probes, their created contexts, their unprompted contact) = the window is open. *Once-present, now fading* = the window is closing — the question is being consulted less (default crystallization underway); this is the read that catches **window-position mismatch** (your question live, theirs already settled — the domain's standard tragedy, invisible until an ask samples it). *Long absent* = likely settled — plan for a revival problem (`41` §8's reopening), not an ordinary ask. The meter is a **read, never a probe-license**: it licenses attention, not tests.
+
+**Context-cuts:** *walk-in / first contact* — reads 1–2 only, no baseline: default SIZE-DOWN (the doc-layer's ask-sizing rule is this cut). *Ambient / relationship* — all six, across contact-cycles; recall and re-engagement carry the most weight. *Group / leader* — the room's form: who contributes unprompted (1), who recalls the mission's specifics (3), who shows up without being summoned (4); public asks only at room-level GO, because a room's no is maximally sticky.
+
+**The redirect moves (a verdict-moment arriving too early is converted, not answered or forced):** **downgrade** the question's weight ("not the whole thing — can we agree on just X?") · **split** into carried parts · **defer with a date** (a scheduled verdict is a licensed read both parties accept, not an evasion) · **reframe** to the question the evidence carries. Group scale: the leader is the room's **verdict-timer** — prevent premature public binaries (a room's declared no is maximally sticky), stage capacity-carried commitments, never consistency-exploitation. **Receiver-side duals (the defended verdict):** when a verdict is forced on *you* prematurely — name the prematurity ("I can't answer that well yet — Friday"), downgrade the demanded stance, and if forced anyway **type your own no aloud** ("a not-yet, not a never") so it doesn't crystallize harder than you mean it; notice weight-escalation without capacity (a ladder being run on you). **The forced-window exception:** when an external forcing closes the window off-schedule (a rival's offer, an expiring context), use the **option-preserving micro-ask** — the lightest ask that keeps the option alive, unfairness named: *"no verdict needed now — I know the timing's bad; just don't decide against me by default."*
+
+**The verdict-management kit (the card)** *(developed 2026-08-26 — one instrument family, indexed by where in the arc you stand; every row keeps the no cheap once any ask exists)*:
+
+| Moment | Move | Ready form |
+|---|---|---|
+| Too early; no verdict-moment exists; you're tempted to ask | **HOLD (additive mode)** | keep building capacity; nothing to manage yet — but HOLD only with a rising trajectory + a planned moment (else it's avoidance, and the orbiter bound prices it) |
+| A verdict-moment arrives too early (their ask, a situation, the room) | **Downgrade** | "not the whole thing — can we agree on just X?" |
+| | **Split** | "the pilot now; the rollout when we've seen it run" |
+| | **Defer with a date** | "give me until Friday — you'll get a real answer" *(a scheduled read both parties accept — the licensed-checkpoint form, not an evasion)* |
+| | **Reframe** | "the question we can actually answer today is…" |
+| A verdict is forced on **you** prematurely | **The defended verdict** | name it ("I can't answer that well yet"); downgrade the demanded stance; if forced anyway, type your own no: **"a not-yet, not a never"**; and notice weight-escalation without capacity — a ladder being run on you |
+| They offer an **under-carried yes** (politeness / swept-up / compliance) | **Cap it** | "don't decide now — try it Tuesday first, then tell me"; never book the instant yes |
+| The window is forced shut early (rival offer, expiring context) | **The option-preserving micro-ask** | "no verdict needed now — I know the timing's unfair; just don't decide against me by default" |
+| The window is open (gauge **GO** × actionable) | **The carried ask** | the ask at the weight the reads support; a private setting where a no is riskable (their no stays cheap and un-sealed — receiver-first grounding, §11's privacy note); the no offered as the easy branch (§10's phrasings) |
+| Pursuit-end; budget spent | **Ask-the-no / the deployed exit** | §10 steps 2 and 7 — force the typed verdict deliberately, to free your own budget |
+| A **fully-carried yes** worth locking | **Deliberate crystallization** | public, witnessed, recorded, identity-framed (the vow-structure) — legitimate *only* at carried capacity; pulling these levers on an under-carried yes is the exploitation edge |
+
+*Card footer: never argue a no (grace keeps it soft) · cap what you accept, not just what you request · the three-binds line (below) governs every row.*
+
+**The scheduled frame-review (the anti-silent-close instrument — added with the window-close finding):** defer-with-a-date applied to the *frame itself*. Because the close is silent (`41` §8 — no signal marks a frame settling), long ambiguities need **pre-registered look-points**: a moment both parties expect, at a natural milestone, where the frame may be looked at without ambush — the institutional model is the probation review or the B2B account-review, which exist precisely so labels don't settle by drift. Three integrity conditions: (1) the look-point is **licensed sampling** — expected by both, prepared for, never sprung; (2) **"still open — next look at X" is a first-class return** — the review may legitimately end without a verdict (a typed not-yet), never forced to a binary; (3) the instrument prevents *silent* closes, not open states — it is not a deadline for demanding answers, and every ask made at a review is still governed by capacity × actionability and the cheap no. Commercial form: the account-review that explicitly asks "vendor or partner — or not decided yet?" Relational form: the milestone conversation both parties can see coming.
+
+**Two conduct rules, mechanism-grounded:** **never argue with a no** (arguing forces its defense; rehearsal seals it — grace leaves it soft; §10's exit-whole rule, now with its mechanism) · **cap the verdicts you accept, not just the ones you request** (the under-carried yes books a forecast delivery re-prices into a harder no — right-size incoming yeses; "don't book the instant yes" is one instance).
+
+**The honest ladder:** a sequence of **carried asks** — each rung sized to its own current evidence, no rung leaning on the prior yes's consistency-pressure. That lean is the yes-ladder, and it is the excluded compliance shape.
+
+**The three-binds line (valid only as a unit — each alone is gameable):** (1) **the orbiter bound** — your delay runs on a finite budget and horizon; (2) **frame-appropriateness** — ambient conduct stays ambient; escalating beyond the frame while refusing its name is engineered ambiguity, the extraction shape (silence about an unasked question is not a lie; a distorted frame is); (3) **truthful answers** — their clarifying moments get the true answer, always; dodging *your own* premature urge is discipline, dodging **their initiated** clarifying question is covert operation. Summary test: **whose verdict-timing is being protected?** Theirs = honest (and note the alignment: the premature ask corners *them* — their cheapest decision-point and your best sampling point coincide by default). Your deniability = covert. **Privacy note (receiver-first grounding, inseparable):** choosing a private setting for a riskable ask keeps *their* no cheap and un-sealed — their benefit is the ground, your revisability the aligned consequence; publicizing an under-carried yes to prevent its revision is the exploitation edge, flagged.
+
+**Engineered-liveness detection (the receiver-side flag-set — added with the window-close finding):** the dark dual of window-management is **keeping *your* question alive while never letting it resolve** — breadcrumbing, mechanized (`41` §8; intermittent reinforcement's frame-level face, `50`'s list). Its three flags, each readable as conduct: (1) **rationed discrepancy** — the frame-discrepant moments arrive *cheap, timed, and unilateral* (a late-night message costing nothing, landing exactly when your question was dying), where genuine frame-growth is *jointly produced and cost-bearing* (real shared novelty both parties pay for); (2) **settlement-blocking without asking** — the conduct consistently prevents the frame from settling (enough spark to stop "just friends" from closing) while no ask ever arrives and no settlement is ever allowed; (3) **deflection at your clarifying moments** — your "what is this?" gets neither a truthful answer nor a no, but a deflection that re-opens ambiguity ("why do we need labels?"). Handling: your clarifying question *is* your verdict-moment, and you are entitled to force it — an honest counterpart answers it truthfully (three-binds, bind 3); a deflection at a directly-posed clarifying question **is itself the read**. On confirmed flags, treat the standing ambiguity as an availability-no and let the budget rule govern — the operator's product is your unresolved question, and closing it yourself removes the product.
+
+**The arc, complete:** protect ambiguity while accumulation rises → ask when capacity carries the weight and a yes is actable → and at the ends, crystallization inverts into a deliberate instrument: **ask-the-no** (§10) forces the typed verdict at pursuit-end to free your budget; its yes-side twin is deliberate maximal crystallization of a fully-carried yes (the vow-structure). **The ask is itself a display:** capacity-timed and cheap-no'd, it shows self-position, courage, and reading-skill at once; premature, it shows poor reading; dodged, cowardice.
+
+## 12 · The frame (the runtime object)
+
+*Source: the frame-definition finding (`inquiries/2026-08-31_14-26__frame_definition/finding.md`). The user's field-question ("we cannot operate such way — we are not computers") is this program's own founding constraint; this section names the program's runtime layer. The word "compile" below is presentation vocabulary, flagged per the metaphor precedent.*
+
+**The family.** A **frame is a stance-bundle** (label + expected conduct + claim-scope) **held at an object**: the *situation* ("what this occasion is" — frame-consent, the context-nulls), the *pair* ("what we are"), or *oneself-in-context* ("who I am here" — the **worn self-frame**). The Expressed Frame ("I'm the selector" / "please like me") is the pole-vocabulary of the self-frame's readable edge — premise-posture is its per-move signature. Frames **nest** (a self-frame presupposes a situation-frame) and **interlock**: two worn self-frames co-author their pair-frame *through conduct* (each bundle contains a slot for the counterpart; each wearer's frame-generated conduct is the stream the other's pair-frame settles on). Frame-collisions are claim-collisions at the frame layer; the field's "frame control" doctrine stays outside.
+
+**The ontology (assumability earned).** A worn frame = **a context-scoped premise about who-I-am-here + the manufactured state that premise implies, worn as one unit.** Compact knowledge fails the wearer's own test (knowledge needs runtime interpretation — the computer-mode); the compound passes because **assuming = manufacturing the implied state** (§5's committed craft) and **real states co-generate their conduct for free**. The frame doesn't summarize the principles — *it installs a generator that produces the conduct the principles would have prescribed.* Two functions, one object: the state-side **co-generates** (production without deliberation) and the premise-side **retires questions** (the covered questions stay no-longer-live — context-scoped and challenge-reversible, which distinguishes it from habit). Its observable: **the flooding-signature** — a frame broken mid-scene re-opens its retired questions all at once ("suddenly I didn't know how to stand"). The premise-only mode (belief held coldly, state lagging) is **performed wearing** — leakage; the arc.
+
+**The lifecycle.** *Assume* (choose the premise; manufacture its state — the cost falls with practice) → *wear* (conduct co-generates; others read the premise-posture in seconds; every worn hour grains both ledgers — wearing is claim-formation in progress; "submitting" to one's own frame is self-governance, the opposite of Supplication) → *maintain* (the coherence machinery; challenges arrive as verdict-moments — a frame held calmly is "defended, not qualified"; **three break-modes**: self-contradiction · challenge-loss · load-drop; a break re-prices retroactively) → *resolve*: drop (shedding is part of honest wearing — off-time recovers manufacture-effort), break (priced), or **wear in** — repeated assumption lowers manufacture-cost until the state stands: **a frame worn in becomes bearing** (§8's endpoint — a sufficiency-path, not an identity). **Layering:** standing frames (bearing; the formed self-claim) beneath context-assumed frames; in-context choices are frame-expressions.
+
+**The compile-relation.** Three time-scales: **training-time** (the principles and the practice — where frames are designed and their states built) → **consult-time** (the compressed cards) → **runtime** (the frame, assumed and worn). *Compilation, never replacement* — a frame without the training behind it is just the performed mode. And the standing scoping: **a frame guarantees frame-consistent conduct at low cost — never attachment**; content-quality is the best-frame question (`80`'s registered successor).
+
+**Guards.** *Chosen vs default:* frameless operation doesn't exist — "no frame" is the deliberation-mode or the unexamined habitual frame; the real choice is chosen-vs-default. *The automation-trap:* a badly-chosen frame runs bad conduct at the same zero cost. *The fraud-frame, priced:* a factually-false premise worn by state-manufacture is occurrently backed (feels real in the room) while its implied standing claims are unbacked — the standing channels catch it; presence is not standing truth. *The drop-test:* a frame you cannot take off owns you — bearing is wanted permanence, servitude trapped permanence (Exit-Willingness toward one's own frame). *The legibility gift:* a clear frame lowers the room's reading-cost — predictability given freely. *Instruments:* the **fit pre-read** before assuming (manufacturable? record-backed? context-accepted?); repair by **the one move** (§6 — re-manufacture, never argue a break).
+
+**The walk-in frame (the live compile — the season's card-cell):**
+
+> **Premise:** *"I built this; I'm showing it to the people it's for."*
+> **Assumption-ritual:** dress the part (the outfit is frame-hardware — it manufactures the wearer's state); one breath at the door; the premise said once, inwardly, as fact.
+> **It retires:** the per-door legitimacy questions ("am I bothering them? do I have the right?") — answered once, by the premise, for the season.
+> **It co-generates:** the sales doc's entire conduct — peer posture, stated time-budget, frame-clarity, demo-confidence, the cheap no, the whole exit.
+> **Fit-check:** manufacturable (founder-conviction is real) · record-backed (you built it) · context-accepted (a builder showing their work is a legible frame in any shop).
+> **Drop:** at the door on the way out — the frame is for the doors, not the dinner table.
+
+## 13 · This layer's own epistemics
+
+Prescriptions here are derived from committed descriptive texts, never from outcomes (the theory has no outcome term to learn from). Field observations from use are logged as *evidence toward* validation — the wording is a standing MUST. The layer's first field test produced a read-back list for its next revision (which parts sufficed, which gapped, which wordings needed translation — e.g., "posture" → bearing); owed to this file when iteration-3.1's material is next revised.

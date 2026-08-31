@@ -1,0 +1,58 @@
+# Innovation — confrontation_milestones
+
+## User Input
+
+/Users/ns/Desktop/projects/profilingOps/inquiries/2026-08-26_11-28__confrontation_milestones/_branch.md + /Users/ns/Desktop/projects/profilingOps/inquiries/2026-08-26_11-28__confrontation_milestones/sensemaking.md + /Users/ns/Desktop/projects/profilingOps/inquiries/2026-08-26_11-28__confrontation_milestones/decomposition.md
+
+Seed: SV6 + the seven pieces (P2's zero-import joint and P5's line flagged). Intent: strengthen and extend before critique.
+
+## Generators
+
+### G1 — Combination
+- **(generic) The capacity-gauge.** Combine the carrying-capacity rule with the backing instrument's reception-channels: capacity isn't vague — it is read on the **inverted false-license marks**: their-side specificity present, processed (not politeness) tempo, recall across contacts, plus unprompted re-engagement. The ask's GO-signal is the same three channels that type a yes, read *before* asking. → P4 gains its gauge from committed machinery. **SURVIVES.**
+- **(focused) The verdict-management kit.** Combine the redirect moves with the ask-the-no forms into one lifecycle-indexed instrument family: early (redirect: downgrade / split / defer-with-date / reframe) → window (the carried ask) → terminal (ask-the-no forces the typed verdict deliberately). One family, indexed by where in the arc you stand. → P4 packaging. **SURVIVES.**
+- **(contrarian) Ask-privacy as crystallization-control.** The audience multiplier is a *lever*: engineer the ask so a possible no stays **private** (one-on-one, unwritten, unobserved — only self-consistency will defend it, keeping it soft); conversely a fully-carried yes can be deliberately **publicized** to lock it. Hazard carried explicitly: publicizing an *under-carried* yes to prevent its revision is consistency-exploitation (P5's test applies); the legitimate form locks only carried yeses in natural frames. **SURVIVES with hazard.**
+
+### G2 — Absence recognition
+- **(generic) The defended-verdict form (receiver-side dual).** The account is sender-side; absent is self-defense **when a verdict is forced on you** prematurely (the "in or out?" boss, the DTR demand, the pushy seller): name the prematurity ("I can't answer that well yet — Friday"), downgrade, split; and if forced anyway, **type your own no out loud** ("this is a not-yet, not a never") so your verdict doesn't crystallize harder than you mean it in *their* ledger. Also: notice weight-escalation without capacity — the yes-ladder run on you. → a new deliverable face. **SURVIVES.**
+- **(focused) Default crystallization — the shelf-life of the unasked question.** Absent from SV6's delay-side: ambiguity ages. Early, the unnamed frame is generative (accumulation flows); left long enough, **the situation categorizes it by default** — "we're friends," "he's just a vendor," "our nice regular" — a stance crystallizes *without any ask*, by the frame's own settling pressure (the folk "friend-zone" is this, mechanized). So the ask-window closes structurally at both ends: **premature sampling on one side, default crystallization on the other.** The delay bound stops being only the orbiter's budget — it becomes a mechanism. **SURVIVES — completes the two-sidedness.**
+- **(contrarian) Cap the yes at capacity too.** The account is no-centric; premature *yeses* crystallize as dangerously: the compliance-yes, politeness-yes, swept-up yes books a forecast delivery will re-price — the under-carried yes converts into a worse no later (churn, regret, the ghost after the enthusiastic date). The sales doc already commits the instance ("don't book the instant yes"); generalize: **right-size the verdicts you accept, not just the ones you request.** **SURVIVES.**
+
+### G3 — Domain transfer
+- **(generic) Licensed reads (sequential testing).** From experimentation: peeking at data before maturity yields false negatives; sequential designs pre-register checkpoints that license a read. Maps exactly: the ask is a licensed read; **defer-with-date is a pre-registered checkpoint** — converting ad-hoc forcing into a scheduled read both parties accept, which is why it's the redirect that least damages the frame. **SURVIVES (grounds an existing move).**
+- **(focused) Interests before positions (mediation).** The diplomat's rule — never let the other side state out loud a position you'll need them to abandon; work interests before positions. Same mechanism independently arrived at; imports one generalization: **communicate-not-sell generalizes to communicate-not-position** across domains. **MERGED into P4's presentation** (corroboration + one phrase).
+- **(contrarian) Nucleation — the hair-trigger near-threshold state.** From phase transitions: a supersaturated solution crystallizes instantly on *any* seed. Near capacity-peak, the verdict-moment is coming regardless — a third party's remark, a situational forcing, an awkward moment can nucleate it under conditions you don't control. So at high accumulation the real choice is **ask deliberately or let a random nucleation site force it worse** — the late window's argument *for* asking, mechanically stated. **SURVIVES — sharpens the window's close.**
+
+## Framers
+
+### F1 — Lens shifting
+- **(generic) Option-theory lens.** The unasked question is an option: waiting has time-value while their situation is unresolved, and the option expires (default crystallization). One clean line for P4; no new structure. **MERGED (one line).**
+- **(focused) The receiver-first formulation.** Restate the doctrine from their side: premature asks corner them (the guilt of the forced rejection, the loss of a good ambiguity); over-delay breeds "what *is* this?" discomfort and toyed-with suspicion. Both misfires are *receiver-costs* — and the receiver's cheapest decision-point is also the asker's best sampling point. **Timing is an alignment, not a tradeoff** — the doctrine's most honest face, and the residual manipulation-frame dissolves in it. **SURVIVES.**
+- **(contrarian) The ask as a display.** The ask itself is read by the backing instrument: a capacity-timed, cleanly-delivered, cheap-no ask displays self-position, courage, and *reading skill* in one move; a premature ask displays poor reading ("he can't tell where we are"); a dodged verdict-moment displays cowardice. Good timing is itself charm-channel evidence — the meta-display loop closes. **SURVIVES.**
+
+### F2 — Constraint manipulation
+- **(generic) Name the honest ladder.** Relax one-ask to sequences: the honest form is **carried asks** — each rung sized to its own current evidence, no rung leaning on the prior yes's consistency-pressure. The name does the anti-yes-ladder work in two words. **SURVIVES (naming).**
+- **(focused) The zero-delay limit (cold approach).** Tighten delay to zero: in the cold approach no ambient frame exists and walking away is forever — and the interruption *itself* already forces a mini-verdict ("what is this?"). So you never choose whether to create a verdict-moment, only its **clarity** — the lightest true declaration is the *cheapest available ask*, and principle 4's verdict lands mechanically from the general account. **SURVIVES — P6's approach case closes clean.**
+- **(contrarian) Red-team the sincerity (the covert operator's optimal play).** Under this account, the covert play = maximize ambiguity, extract investment, and **dodge her clarifying moments** forever. The account's own machinery catches it: the tell is *whose verdict-moment gets dodged*. Dodging your own premature urge is discipline; dodging **their initiated** clarifying question is covert operation — and answering it falsely is the pretext-prohibition violated outright. The line-test operationalizes: **who initiated the verdict-moment being dodged, and was their question answered truthfully?** **SURVIVES — P5's test gains its operational form.**
+
+### F3 — Inversion
+- **(generic) Maximal crystallization on the yes side.** Invert "keep verdicts soft": when a *fully-carried* yes should be locked, the levers run forward — public, witnessed, written, identity-framed. **The wedding vow is the theory's own terminal instrument on the yes side**: deliberate maximal crystallization of a carried yes (public + witnessed + recorded + identity-framed), legitimate precisely because the capacity is there. Symmetric to ask-the-no. **SURVIVES.**
+- **(focused) Grace keeps no's soft.** Invert de-crystallization: the *asker's exit conduct* controls how hard the received no sets. Arguing with a no forces the giver to **defend** it — rehearsing reasons deepens consistency, sealing it; the clean, salt-free exit leaves the no *undefended* and therefore soft. The corpus's exit-whole rule gains its mechanism: **arguing with a no strengthens it; grace leaves it revisable.** **SURVIVES — explains an existing rule.**
+- **(contrarian) The wanted ask.** Invert imposition: at high accumulation the *missing* ask is the imposition — her readiness can exceed his read, and under-asking becomes its own reading-failure (displayed as cowardice or indifference). Readiness-signals are readable on existing channels: escalating their-side specificity, created alone-contexts, *her* clarifying probes. The ask-window's opening is signaled, not guessed. **SURVIVES — the gauge's positive side.**
+
+## Five Tests (survivor summary)
+
+All surviving candidates pass novelty (absent from SV6), scrutiny (each carries its hazard or limit — ask-privacy carries the exploitation hazard; the kit carries the P5 test), fertility (assemblies below), actionability (each lands in a named piece), independence (the two merges declared; no candidate presupposes another's acceptance).
+
+## Assembly Check — emergent candidates
+
+1. **The ask-window account (P4 completed):** the window *opens* on gauge-GO (inverted false-license marks + readiness-signals) with actionability present; *closes* into default crystallization and random nucleation — near peak, deliberate asking beats waiting because the verdict-moment arrives regardless; delay is legitimate only as readiness-waiting, priced by the orbiter's budget. [G1a, G2b, G3c, F3c]
+2. **The verdict-management kit (one lifecycle family):** pre-window — redirect moves (downgrade / split / **defer-with-date as pre-registered read** / reframe), the defended-verdict self-protection, right-sizing incoming yeses; in-window — the **carried ask**, privacy-controlled for soft no's; terminal — ask-the-no (no side) and the vow-structure (yes side) as deliberate crystallization. [G1b, G1c, G2a, G2c, G3a, F2a, F3a]
+3. **The operational line (P5 completed):** whose verdict-timing is protected + who initiated the dodged verdict-moment + their clarifying question answered truthfully, always + grace keeps no's soft (never argue a no). [F2c, F3b]
+4. **The receiver-first face:** their cheapest decision-point = your best sampling point (alignment, not tradeoff); and the well-timed ask is itself a display the backing channels read. [F1b, F1c]
+
+## Telemetry
+
+Coverage: full — 4 generators + 3 framers, 3 variations each (21 generated; 2 merges declared with reasons; 19 survive into 4 assemblies + refinements). Failure modes checked: premature evaluation (generation before testing), single-mechanism trap (7/7), early frame lock (contrarian slots forced off-frame: privacy-lever, capacity-capped yes, nucleation, wanted-ask), innovation without grounding (every candidate tethered to committed machinery or a named prior), mechanism exhaustion (stopped at 3×7), survival bias (merges/discards listed). None fired.
+
+**Hand to Critique: SV6 + the four assemblies, with P5's operational line, the ask-privacy lever's hazard, and the zero-import property flagged as the most attackable points.**
