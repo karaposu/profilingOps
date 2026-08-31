@@ -24,29 +24,95 @@ lets dive deep into this , the answer may be highly differ depending on situatio
 
 Everything below uses these terms. They are defined here so the document can be read on its own.
 
-**BDA (Belief-Driven Attachment).** The theory this corpus builds. Its claim: whether a person becomes *attached* to you — wants you around, follows you, chooses you, comes back — is driven by **the beliefs they form about you**. It is a *receiver-side* theory: it describes what happens in the other person's head, and your conduct matters only through what it makes them believe. Its working shape is a product:
+**BDA (Belief-Driven Attachment).** The theory this corpus builds.
+
+- Its claim: whether a person becomes *attached* to you — wants you around, follows you, chooses you, comes back — is driven by **the beliefs they form about you**.
+- It is a *receiver-side* theory: it describes what happens in the other person's head; your conduct matters only through what it makes them believe.
+- Its working shape is a product:
 
 > Attachment ≈ f(Charm, Hope, Fear, Resonance) × g₁(Self-Positioning) × g₂(Coherence) × g₃(Emotional Congruence)
 
-**The four variables (they add).** *Charm* — the belief that you are valuable, capable, worth attention; built by demonstration and specificity, never by claims. *Hope* — the belief that being around you leads somewhere; your life visibly moves (trajectory). *Fear* — the belief that you could be lost; its honest form is *real* selectivity (you genuinely have alternatives), its manufactured form (games, scarcity theater) is read as fraud. *Resonance* — the belief that you are like them and real to them (honest self, honest affect). More of any variable helps, but *how much* each one matters depends on the context.
+**The four variables (they add).** More of any one helps, but *how much* each matters depends on the context.
 
-**The three gates (they multiply).** A gate near zero zeroes everything else, whatever the variables say. *Self-Positioning* — where your attention is aimed, as the other person reads it. Its good pole is **non-extractive attention**: attention not aimed at getting approval, validation, or a response from the person in front of you. Its failure pole is **Supplication**: attention aimed at harvesting their response — chasing, needing; nobody attaches to what chases them. *Coherence* — the belief that your story holds together: the same person over time and across contexts, forecasts kept. *Emotional Congruence* — what you show matches what you feel; performed feeling is read as performance.
+- **Charm** — the belief that you are valuable, capable, worth attention. Built by demonstration and specificity, never by claims.
+- **Hope** — the belief that being around you leads somewhere; your life visibly moves (trajectory).
+- **Fear** — the belief that you could be lost. Its honest form is *real* selectivity (you genuinely have alternatives); its manufactured form (games, scarcity theater) is read as fraud.
+- **Resonance** — the belief that you are like them and real to them (honest self, honest affect).
 
-**Genus and species of attention.** Non-extractive attention is the *genus* — the property all the good forms share. The *species* are what the attention is on: your own priorities (*Self-Focus*), one person's wellbeing (*Caregiver-Focus*), a cause (*Mission-Focus*), the craft (*Task-Focus*), a shared inquiry (*Dialogue-Focus*). Every species is defined the same way — attention on [object] *whose resolution doesn't depend on the other person's response*. That property is **outcome-independence**. The prescriptive file (`BDA/60_PRESCRIPTIVE.md` §2) holds a table of which species to cultivate in which context (value-establishing contexts such as a first contact → Self-Focus; established intimate relationships → Caregiver-Focus alternating with Self-Focus; and so on) and a list of contexts where *low Self-Focus is right*: genuine need shown transparently, a transparent power gap, intimate mutual warmth, ceremony (condolence, apology).
+**The three gates (they multiply).** A gate near zero zeroes everything else, whatever the variables say.
 
-**Backed vs performed; the backing channels.** A displayed state is *backed* when the state is really there and *performed* when it is not. Receivers tell the difference through the **backing channels** (established by the backing-observables finding): tempo, specificity, depth off-script, behavior under perturbation, what you do when unwatched, and consequences over time. Performed states *leak* through these channels; backed states arrive with their marks for free. **Exit-Willingness** is the readable readiness to leave an exchange without a result — the visible surface of outcome-independence.
+- **Self-Positioning** — where your attention is aimed, as the other person reads it.
+  - Good pole: **non-extractive attention** — attention not aimed at getting approval, validation, or a response from the person in front of you.
+  - Failure pole: **Supplication** — attention aimed at harvesting their response; chasing, needing. Nobody attaches to what chases them.
+- **Coherence** — the belief that your story holds together: the same person over time and across contexts, forecasts kept.
+- **Emotional Congruence** — what you show matches what you feel; performed feeling is read as performance.
 
-**The record and the standing self-claim.** Your *record* is what you have actually done, built, and lived. A *standing self-claim* is the claim about yourself that you carry everywhere — the corpus's precise sense of "ego" (`BDA/21_SELF_POSITIONING.md` §8). It is *backed* when sized to what the record supports and *unbacked* when it claims past it; "at the backed scope" means claiming exactly what the record covers.
+**Genus and species of attention.**
 
-**The frame** (the parent finding, `inquiries/2026-08-31_14-26__frame_definition/finding.md`, homed at `BDA/60` §12). A *frame* is a bundle of stance and expected conduct held at an object: "what this occasion is" (the situation-frame), "what we are" (the pair-frame), or "who I am here" (the *worn self-frame*). A worn self-frame is **a short premise about who-I-am-here plus the felt state that premise implies, worn as one unit**. You don't consult it; you *assume* it — you manufacture its state — and a real state then *co-generates* its conduct without deliberation. So it does two things: the state-side **co-generates** conduct, and the premise-side **retires questions** (questions the premise has answered stop being live). Its observable is the **flooding-signature**: when a frame breaks mid-scene, all its retired questions come back at once ("suddenly I didn't know how to stand"). Holding the premise as a thought while the state lags behind is **performed wearing**. A frame worn repeatedly costs less each time until the state simply stands on its own — that endpoint is **bearing**, the frame you no longer have to put on. The parent finding's *founding fact*: **a frame guarantees frame-consistent conduct at low cost — never attachment.** Whether anyone attaches depends on the frame's *content*, and that is exactly this inquiry's question.
+- The *genus* — the property all the good forms share — is **non-extractive attention**.
+- The *species* are what the attention is on:
+  - your own priorities — **Self-Focus**
+  - one person's wellbeing — **Caregiver-Focus**
+  - a cause — **Mission-Focus**
+  - the craft — **Task-Focus**
+  - a shared inquiry — **Dialogue-Focus**
+- Every species is defined the same way: attention on [object] *whose resolution doesn't depend on the other person's response*. That property is **outcome-independence**.
+- The prescriptive file (`BDA/60_PRESCRIPTIVE.md` §2) holds a table of which species to cultivate in which context — value-establishing contexts such as a first contact → Self-Focus; established intimate relationships → Caregiver-Focus alternating with Self-Focus; and so on.
+- It also lists the contexts where *low Self-Focus is right*: genuine need shown transparently · a transparent power gap · intimate mutual warmth · ceremony (condolence, apology).
 
-**The 4+1 interface.** The parent finding specified what a best-frame answer must supply: four parameters — *content* (which premise), *scope* (worn for a context, or standing), *backing-requirement* (what the wearer must actually have for the premise to be true), *context-fit* (which contexts accept it) — under one constraint, the **extraction-test**: does the frame's conduct *generate* value for the other person, or *extract* something (approval, compliance) from them? A frame that extracts fails.
+**Backed vs performed; the backing channels.**
 
-**The calculation program and the presence-path** (`BDA/60` §1–§8). The prescriptive file's program for building the gates in oneself. Its target is outcome-independence; its daily practice is attention on one's own real work — the *presence-path* — which, as a side effect, builds the record; its endpoint is bearing. The **one repair move** (`BDA/60` §6): when a state slips, re-manufacture it; never argue the slip. The **verdict-timing doctrine** (`BDA/60` §11): don't force a yes/no from someone before they have the capacity for it; size the ask to the moment.
+- A displayed state is *backed* when the state is really there, *performed* when it is not.
+- Receivers tell the difference through the **backing channels** (established by the backing-observables finding): tempo · specificity · depth off-script · behavior under perturbation · what you do when unwatched · consequences over time.
+- Performed states *leak* through these channels; backed states arrive with their marks for free.
+- **Exit-Willingness** — the readable readiness to leave an exchange without a result; the visible surface of outcome-independence.
 
-**The eight application docs and the walk-in frame.** Eight documents at the repository root derive BDA principles for business, the sales pitch, dating, marriage, friendship, parent relationships, leadership, and approaching a stranger; each ends in a compressed card. The parent finding compiled the sales doc into the **walk-in frame** — the founder's door-to-door premise, *"I built this; I'm showing it to the people it's for"* — as the first live example of a frame. The parent finding also discussed two people who dress differently for the street (the "two dressers") and a coffee-shop observation of someone entering as "the most important person here"; both are referred to below.
+**The record and the standing self-claim.**
 
-**Cause-level vs display-level.** A gate has a *cause* (where attention is aimed; whether the state's resolution depends on the other person) and a *display* (how that reads from outside — for instance the *selector-posture*: the stance of the one who is choosing and offering rather than asking; the corpus calls this readable edge the "Expressed Frame"). A premise can name either. This finding's claim is that a frame must name the cause.
+- Your *record* is what you have actually done, built, and lived.
+- A *standing self-claim* is the claim about yourself that you carry everywhere — the corpus's precise sense of "ego" (`BDA/21_SELF_POSITIONING.md` §8).
+- It is *backed* when sized to what the record supports, *unbacked* when it claims past it. "At the backed scope" means claiming exactly what the record covers.
+
+**The frame** (the parent finding, `inquiries/2026-08-31_14-26__frame_definition/finding.md`, homed at `BDA/60` §12).
+
+- A *frame* is a bundle of stance and expected conduct held at an object: "what this occasion is" (the situation-frame) · "what we are" (the pair-frame) · "who I am here" (the *worn self-frame*).
+- A worn self-frame is **a short premise about who-I-am-here plus the felt state that premise implies, worn as one unit**. You don't consult it; you *assume* it — you manufacture its state — and a real state then produces its conduct without deliberation.
+- It does two things:
+  - the state-side **co-generates** conduct;
+  - the premise-side **retires questions** — questions the premise has answered stop being live.
+- Its observable is the **flooding-signature**: when a frame breaks mid-scene, all its retired questions come back at once ("suddenly I didn't know how to stand").
+- **Performed wearing** — holding the premise as a thought while the state lags behind.
+- **Bearing** — a frame worn repeatedly costs less each time until the state simply stands on its own; bearing is the frame you no longer have to put on.
+- The parent finding's *founding fact*: **a frame guarantees frame-consistent conduct at low cost — never attachment.** Whether anyone attaches depends on the frame's *content* — exactly this inquiry's question.
+
+**The 4+1 interface.** What the parent finding said a best-frame answer must supply:
+
+- four parameters —
+  - *content*: which premise
+  - *scope*: worn for a context, or standing
+  - *backing-requirement*: what the wearer must actually have for the premise to be true
+  - *context-fit*: which contexts accept it
+- under one constraint, the **extraction-test**: does the frame's conduct *generate* value for the other person, or *extract* something (approval, compliance) from them? A frame that extracts fails.
+
+**The calculation program and the presence-path** (`BDA/60` §1–§8). The prescriptive file's program for building the gates in oneself.
+
+- Target: outcome-independence.
+- Daily practice: attention on one's own real work — the *presence-path* — which, as a side effect, builds the record.
+- Endpoint: bearing.
+- The **one repair move** (`BDA/60` §6): when a state slips, re-manufacture it; never argue the slip.
+- The **verdict-timing doctrine** (`BDA/60` §11): don't force a yes/no from someone before they have the capacity for it; size the ask to the moment.
+
+**The eight application docs and the walk-in frame.**
+
+- Eight documents at the repository root derive BDA principles for business, the sales pitch, dating, marriage, friendship, parent relationships, leadership, and approaching a stranger; each ends in a compressed card.
+- The parent finding compiled the sales doc into the **walk-in frame** — the founder's door-to-door premise, *"I built this; I'm showing it to the people it's for"* — the first live example of a frame.
+- Two other examples from the parent finding are referred to below: the **two dressers** (two people who dress differently for the street) and the **coffee-shop observation** (someone entering as "the most important person here").
+
+**Cause-level vs display-level.**
+
+- A gate has a *cause* — where attention is aimed; whether the state's resolution depends on the other person.
+- And a *display* — how that reads from outside; for instance the *selector-posture*: the stance of the one who is choosing and offering rather than asking (the corpus calls this readable edge the "Expressed Frame").
+- A premise can name either. This finding's claim: a frame must name the cause.
 
 ## Vocabulary (this finding's own terms)
 
@@ -62,9 +128,30 @@ Everything below uses these terms. They are defined here so the document can be 
 
 ### 1 · Why this frame is best — and why the three senses of "best" coincide
 
-The objective is fixed by two things: the founding fact (a frame guarantees consistency, not attachment — so a frame's content must be judged by the attachment it produces) and BDA's receiver-side architecture (attachment is what forms in the other person's beliefs). So: **maximize expected attachment over the daily *distribution* of receivers** — everyone the frame will be worn in front of across ordinary life — **under the extraction-test.** BDA's product form then does the work. Across that distribution, the *variables'* best emphasis varies (service staff reward little of any variable; friends reward Resonance; colleagues reward competence-Charm) — but every *gate's* contribution is monotone in every context: a higher gate never hurts anywhere, because a gate near zero multiplies everything else toward zero and a gate at its maximum simply lets the variables count. So the attachment-maximizing content for a frame worn everywhere is **(i) hold all three gates at their maxima** and **(ii) stay neutral about which variable to emphasize, while keeping every variable's generator available** — force no single variable (forcing any one over-emphasizes it where it's wrong), but let each variable's display arrive on its own when a context calls for it. **What never hurts dominates what sometimes helps.** Hence the invariant core (the gates) *is* the default frame (what is worn when nothing custom applies) *and* the optimum for the generic distribution — optimum, default, and invariant coincide.
+The objective is fixed by two things: the founding fact (a frame guarantees consistency, not attachment — so a frame's content must be judged by the attachment it produces) and BDA's receiver-side architecture (attachment is what forms in the other person's beliefs). So: **maximize expected attachment over the daily *distribution* of receivers** — everyone the frame will be worn in front of across ordinary life — **under the extraction-test.**
 
-One clarification the critique step forced. The monotonicity holds at the **genus** level, not the species level — and the terms need saying plainly. The *genus* is the one property every attention-species shares: **non-extractive attention** — attention not aimed at getting anything (approval, validation, a response) from the person in front of you. A *species* is what the attention is on: own priorities (Self-Focus), one person's wellbeing (Caregiver-Focus), a cause, the craft, a shared inquiry — biology's general kind / particular kind. Being non-extractive never hurts, in any context. The worry was that BDA's own prescriptive table (`BDA/60` §2) says low *Self*-Focus is right in some contexts — intimacy, ceremony, a transparent power gap — so "maximize the gate everywhere" looked wrong exactly there. It isn't: what those contexts change is **the object of the attention**, not the property. The frame is never switched off by an exception clause; the same frame runs with its slot — the bracket in "my own real [work]" — filled differently, two ways. **The custom layer** fills it by design, for recurring situations (the intimate frame → their wellbeing; the walk-in frame → the product, shown). **Nesting** fills it automatically, for occasions that already carry their own real object: a self-frame ("who I am here") always sits inside a situation-frame ("what this occasion is"), honors that occasion's conduct, and takes the occasion's object as its own — at a condolence, what is real in the room is the bereaved person, so "my own real work" *there* is their wellbeing, while every other clause holds unchanged. The frame never said "attend to your own goals in all circumstances"; it says "attend, non-extractively, to what is actually real here," and the slot is where "what is real here" gets written. The premise keeps "my own real work" as the default filling because the slot must hold something when nothing fills it, and the ambient hours of daily life (strangers, service, colleagues) are mostly value-establishing, where one's own work is the right object.
+BDA's product form then does the work:
+
+- Across that distribution, the *variables'* best emphasis varies — service staff reward little of any variable; friends reward Resonance; colleagues reward competence-Charm.
+- But every *gate's* contribution is monotone in every context: a higher gate never hurts anywhere, because a gate near zero multiplies everything else toward zero and a gate at its maximum simply lets the variables count.
+
+So the attachment-maximizing content for a frame worn everywhere is:
+
+1. **hold all three gates at their maxima**, and
+2. **stay neutral about which variable to emphasize, while keeping every variable's generator available** — force no single variable (forcing any one over-emphasizes it where it's wrong), but let each variable's display arrive on its own when a context calls for it.
+
+**What never hurts dominates what sometimes helps.** Hence the invariant core (the gates) *is* the default frame (what is worn when nothing custom applies) *and* the optimum for the generic distribution — optimum, default, and invariant coincide.
+
+One clarification the critique step forced: the monotonicity holds at the **genus** level, not the species level.
+
+- The *genus* is the one property every attention-species shares: **non-extractive attention** — attention not aimed at getting anything (approval, validation, a response) from the person in front of you. A *species* is what the attention is on: own priorities (Self-Focus), one person's wellbeing (Caregiver-Focus), a cause, the craft, a shared inquiry — biology's general kind / particular kind.
+- Being non-extractive never hurts, in any context.
+- The worry: BDA's own prescriptive table (`BDA/60` §2) says low *Self*-Focus is right in some contexts — intimacy, ceremony, a transparent power gap — so "maximize the gate everywhere" looked wrong exactly there.
+- It isn't. What those contexts change is **the object of the attention**, not the property. The frame is never switched off by an exception clause; the same frame runs with its slot — the bracket in "my own real [work]" — filled differently, two ways:
+  - **The custom layer** fills it by design, for recurring situations (the intimate frame → their wellbeing; the walk-in frame → the product, shown).
+  - **Nesting** fills it automatically, for occasions that already carry their own real object: a self-frame ("who I am here") always sits inside a situation-frame ("what this occasion is"), honors that occasion's conduct, and takes the occasion's object as its own. At a condolence, what is real in the room is the bereaved person — so "my own real work" *there* is their wellbeing, while every other clause holds unchanged.
+- The frame never said "attend to your own goals in all circumstances"; it says "attend, non-extractively, to what is actually real here," and the slot is where "what is real here" gets written.
+- The premise keeps "my own real work" as the default filling because the slot must hold something when nothing fills it, and the ambient hours of daily life (strangers, service, colleagues) are mostly value-establishing, where one's own work is the right object.
 
 ### 2 · The premise — the three gates said in first person, at cause-level
 
@@ -80,15 +167,52 @@ The frame's premise is the gates, spoken as a sentence about oneself. Each claus
 
 > ***"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."***
 
-Five clauses in four sentences, four commitments (A + B together are the Self-Positioning gate; C is the self-claim that gate licenses; D and E are the other two gates). **How each variable gets generated** — the variable-generator map: C → Charm (demonstration) · A's real, moving work → Hope (trajectory) · D + E → Resonance (honest self, honest affect) · B → Fear's honest form (real selectivity — you can leave — never manufactured scarcity). And the check the earlier Self-Positioning findings demand: from A + B the **selector-posture** — the readable stance of the one who is choosing and offering rather than asking (the corpus's Expressed Frame at its committed pole) — **co-generates**: the unhurried tempo, the conversation that can end, the absence of self-justification. It arrives as a *consequence*. That is why the display-level premise from the coffee-shop observation ("I am the most important person here") is rejected twice over: it invites performing the display, and its entitled extension (everyone here serves me) fails the extraction-test. Nothing new is admitted to the theory: the generic frame is BDA's gates in the first person.
+Five clauses in four sentences, four commitments (A + B together are the Self-Positioning gate; C is the self-claim that gate licenses; D and E are the other two gates).
+
+**How each variable gets generated** — the variable-generator map:
+
+- C → **Charm** (demonstration)
+- A's real, moving work → **Hope** (trajectory)
+- D + E → **Resonance** (honest self, honest affect)
+- B → **Fear**'s honest form (real selectivity — you can leave — never manufactured scarcity)
+
+And the check the earlier Self-Positioning findings demand: from A + B the **selector-posture** — the readable stance of the one who is choosing and offering rather than asking (the corpus's Expressed Frame at its committed pole) — **co-generates**: the unhurried tempo, the conversation that can end, the absence of self-justification. It arrives as a *consequence*. That is why the display-level premise from the coffee-shop observation ("I am the most important person here") is rejected twice over: it invites performing the display, and its entitled extension (everyone here serves me) fails the extraction-test. Nothing new is admitted to the theory: the generic frame is BDA's gates in the first person.
 
 ### 3 · What it co-generates, what it retires, how it reads
 
-**Co-generates (the eight application docs' behaviors, arriving free):** specificity and demonstration (from A and C) · unhurried tempo and cheap exits, yours and theirs (from B) · honest resonance and honest disagreement (from D and E) · visible paid costs (real work costs something, and the attention pays it — receivers read paid costs as evidence) · trajectory (real work moves, so there is something to hope along). **Retires (the questions that drain deliberation):** the **approval-questions** ("do they like me? did that land? am I doing OK?") — the entire content of Supplication, gone from the live set; the **permission-questions** ("may I speak? do I have the right to be here?") — pre-answered by C; the **decorum micro-questions** (what to wear, how to act here) — pre-answered by D: dress and act as the person you are everywhere. That last is why *both of the parent finding's two dressers are right at the generic level*; which dresses better for a given room is a custom-layer question — a matter of context-fit and Hope, not of the gates. **How it reads from outside** — the parent finding's "legibility gift" (a clear frame lowers the room's cost of reading you), now specified: *"they're here · they're not needy · they're consistent · they're real"* — four reads receivers already make through the backing channels, one per clause, with C as the reason they bother reading at all.
+**Co-generates** (the eight application docs' behaviors, arriving free):
+
+- specificity and demonstration — from A and C
+- unhurried tempo and cheap exits, yours and theirs — from B
+- honest resonance and honest disagreement — from D and E
+- visible paid costs — real work costs something, and the attention pays it; receivers read paid costs as evidence
+- trajectory — real work moves, so there is something to hope along
+
+**Retires** (the questions that drain deliberation):
+
+- the **approval-questions** ("do they like me? did that land? am I doing OK?") — the entire content of Supplication, gone from the live set
+- the **permission-questions** ("may I speak? do I have the right to be here?") — pre-answered by C
+- the **decorum micro-questions** (what to wear, how to act here) — pre-answered by D: dress and act as the person you are everywhere. That is why *both of the parent finding's two dressers are right at the generic level*; which dresses better for a given room is a custom-layer question — a matter of context-fit and Hope, not of the gates.
+
+**How it reads from outside** — the parent finding's "legibility gift" (a clear frame lowers the room's cost of reading you), now specified:
+
+> *"they're here · they're not needy · they're consistent · they're real"*
+
+Four reads receivers already make through the backing channels, one per clause, with C as the reason they bother reading at all.
 
 ### 4 · Scope, layering, and the custom interface
 
-The generic frame is the **standing frame** — worn always, not put on for a context — and it is **bearing's premise**: it is the calculation program (`BDA/60` §1–§8) written as a sentence — the program's target (outcome-independence) *is* Clause B, and its daily practice (attention on one's own real work) *is* Clause A. It is never dropped at a door. Custom frames — frames for particular recurring situations — **layer on top** of it by varying exactly three things: **the object** (the slot filled or shifted — "[the product, shown]" at the walk-in; "[this evening with these people]" at dinner), **the species** (Self-Focus in value-establishing contexts; with intimates, Caregiver-Focus alternating with Self-Focus — the slot becomes *their* wellbeing, still non-extractively; Dialogue-Focus among peers; Task-Focus at the craft; Mission-Focus in front of followers), and **the variable-emphasis** (which of Charm / Hope / Fear / Resonance this context rewards). **The gate-clauses never vary.** The walk-in frame already landed in the parent finding is the first custom instance (object = the product; species = Self/Task; emphasis = Charm-of-the-product). And this account names the custom layer's *first* item by order alone, without deriving it: **the intimate (Caregiver) frame** — because the generic frame's characteristic failure is **over-application** into intimacy (the partner who is "outcome-independent" at home reads cold). That failure is the runtime form of a paradox the earlier Self-Positioning findings carry — attention on the other person is *both* what devotion is made of (Caregiver-Focus) *and* what Supplication is made of (chasing their response): the same surface act, split only by outcome-independence — and its committed resolution, alternating Caregiver-Focus with Self-Focus (`BDA/21` §7), is the custom layer's first job.
+The generic frame is the **standing frame** — worn always, not put on for a context — and it is **bearing's premise**: it is the calculation program (`BDA/60` §1–§8) written as a sentence — the program's target (outcome-independence) *is* Clause B, and its daily practice (attention on one's own real work) *is* Clause A. It is never dropped at a door.
+
+Custom frames — frames for particular recurring situations — **layer on top** of it by varying exactly three things:
+
+- **the object** — the slot filled or shifted: "[the product, shown]" at the walk-in; "[this evening with these people]" at dinner
+- **the species** — Self-Focus in value-establishing contexts; with intimates, Caregiver-Focus alternating with Self-Focus (the slot becomes *their* wellbeing, still non-extractively); Dialogue-Focus among peers; Task-Focus at the craft; Mission-Focus in front of followers
+- **the variable-emphasis** — which of Charm / Hope / Fear / Resonance this context rewards
+
+**The gate-clauses never vary.** The walk-in frame already landed in the parent finding is the first custom instance (object = the product; species = Self/Task; emphasis = Charm-of-the-product).
+
+This account names the custom layer's *first* item by order alone, without deriving it: **the intimate (Caregiver) frame** — because the generic frame's characteristic failure is **over-application** into intimacy (the partner who is "outcome-independent" at home reads cold). That failure is the runtime form of a paradox the earlier Self-Positioning findings carry — attention on the other person is *both* what devotion is made of (Caregiver-Focus) *and* what Supplication is made of (chasing their response): the same surface act, split only by outcome-independence — and its committed resolution, alternating Caregiver-Focus with Self-Focus (`BDA/21` §7), is the custom layer's first job.
 
 ### 5 · Backing, wearability, the floor, the alarm
 
@@ -100,22 +224,59 @@ The generic frame is the **standing frame** — worn always, not put on for a co
 ### 6 · The card
 
 > **Premise:** *"My attention is on my own real [work]. I have something real to offer from it. I don't need this to go any particular way to be whole. I am the same person here as everywhere, and what I show is what I feel."*
+>
 > **Assumption-ritual:** morning — name today's [work] concretely; one breath; the sentence once, inwardly, as fact. **Stress re-entry** (a challenge, an insult, a rejection): re-say Clause B — the smallest re-manufacture; never argue the slip (the one repair move, `BDA/60` §6).
+>
 > **It retires:** the approval-questions · the permission-questions · the decorum micro-questions.
+>
 > **It co-generates:** the selector-posture and unhurried tempo · specificity and demonstration · honest affect and honest disagreement · cheap exits · visible paid costs · trajectory.
-> **Fit-check** (the parent finding's three questions before assuming any frame): *manufacturable* — is there a real [work] to attend to today? (if not, the precondition is the work, not the frame — hold the floor) · *record-backed* — Clause C sized to the record · *context-accepted* — a non-extractive frame is accepted in every room; it is the legibility gift.
+>
+> **Fit-check** (the parent finding's three questions before assuming any frame):
+> - *manufacturable* — is there a real [work] to attend to today? (if not, the precondition is the work, not the frame — hold the floor)
+> - *record-backed* — Clause C sized to the record
+> - *context-accepted* — a non-extractive frame is accepted in every room; it is the legibility gift
+>
 > **Drop:** none — the standing frame; custom frames get taken off, this one remains.
+>
 > **Extraction-test:** passed by construction (Clause B).
-> **Consult-time audit (evening review, never in the moment):** five failure-signatures, one per clause — A: attention drifted to their reaction · B: an exit felt uncomfortable · C: claimed past the record · D: a context-local version of me appeared · E: a flat or forced expression.
+>
+> **Consult-time audit** (evening review, never in the moment) — five failure-signatures, one per clause:
+> - A: attention drifted to their reaction
+> - B: an exit felt uncomfortable
+> - C: claimed past the record
+> - D: a context-local version of me appeared
+> - E: a flat or forced expression
+>
 > **Custom interface:** object slot · species · variable-emphasis — gate-clauses invariant. First custom frame (by order): the intimate frame.
 
 ### 7 · Guards, and the frame by negation
 
-The worst generic frame is the exact negation, clause for clause — **Supplication in premise-form**: *"my attention is on how this is going · I need this to go well · I have to prove I belong · I'll be whoever this room needs · I'll show what works."* It teaches the premise faster than the premise does, and it is the frame of the calibrating performer — the person adjusting every display to the room's reaction. Two dark twins are closed structurally: the **empty-slot fraud** (the premise worn over no real work — performed purpose; the alarm fires, the backing channels read it) and **needs-nothing as contempt** (the risk that "I don't need this" curdles into disdain — killed by the reworded Clause B, where wants remain and only the *dependence* is denied, and by Clause E: contempt is a feeling, and showing it while claiming warmth breaks congruence). Two closing notes: the generic frame is also the verdict-timing doctrine (`BDA/60` §11) worn — Clause B removes the urgency to force verdicts, Clause A grows the record that opens windows — and it is **descriptive before it is prescriptive**: it is the frame the people everyone attaches to already wear, unnamed; the corpus compiled down to what its own exemplars were already doing.
+The worst generic frame is the exact negation, clause for clause — **Supplication in premise-form**:
+
+> *"my attention is on how this is going · I need this to go well · I have to prove I belong · I'll be whoever this room needs · I'll show what works."*
+
+It teaches the premise faster than the premise does, and it is the frame of the calibrating performer — the person adjusting every display to the room's reaction.
+
+Two dark twins are closed structurally:
+
+- the **empty-slot fraud** — the premise worn over no real work: performed purpose. The alarm fires; the backing channels read it.
+- **needs-nothing as contempt** — the risk that "I don't need this" curdles into disdain. Killed by the reworded Clause B, where wants remain and only the *dependence* is denied, and by Clause E: contempt is a feeling, and showing it while claiming warmth breaks congruence.
+
+Two closing notes:
+
+- The generic frame is also the verdict-timing doctrine (`BDA/60` §11) worn — Clause B removes the urgency to force verdicts; Clause A grows the record that opens windows.
+- It is **descriptive before it is prescriptive**: it is the frame the people everyone attaches to already wear, unnamed; the corpus compiled down to what its own exemplars were already doing.
 
 ## Reasoning
 
-The inquiry ran the full pipeline — Articulate → Surfacing → Warm re-articulation → Sensemaking → Decomposition → Innovation → Critique → Routelister. Surfacing found the raw material already distilled eight times (the eight docs' compressed cards share four gate-clauses) and the decisive causal fact (attention upstream of posture — so premises must be cause-level, not display-level). The warm pass committed the coincidence-tilt (the expectation that invariant, default, and optimum would coincide) and flagged one LOW conflict (the cards must distill into a sentence, never be re-listed as rules — resolved by the premise-form). Sensemaking derived "best" and proved the coincidence, derived the premise clause-by-clause, and produced the card. Innovation resolved the flagged monotonicity joint at the genus level, named the intimate frame as the first custom frame, and added the floor, the alarm, the stress re-entry, the receiver-side statement, and the worst-frame contrast. Critique killed nothing and won one **substantive** change — **Clause B reworded** from "I need nothing from this exchange" to "I don't need this to go any particular way to be whole" (BDA's own definition of outcome-independence; the original overclaimed and would have been a false premise for anyone with real wants — i.e. performed wearing by the account's own rule) — plus the nesting clarification, the explicit generator map, the graded "nothing to take off," the floor's admitted attachment-cost, and the audit placed at evening review rather than in the moment. The methods file's admissibility audit (`BDA/03_METHODS.md`) passed: the generic frame is a composition of already-committed gate-content, no new element; the two metaphors of the parent finding ("compile", "wear") are inherited as flagged.
+The inquiry ran the full pipeline — Articulate → Surfacing → Warm re-articulation → Sensemaking → Decomposition → Innovation → Critique → Routelister.
+
+- **Surfacing** found the raw material already distilled eight times (the eight docs' compressed cards share four gate-clauses) and the decisive causal fact (attention upstream of posture — so premises must be cause-level, not display-level).
+- **The warm pass** committed the coincidence-tilt (the expectation that invariant, default, and optimum would coincide) and flagged one LOW conflict: the cards must distill into a sentence, never be re-listed as rules — resolved by the premise-form.
+- **Sensemaking** derived "best" and proved the coincidence, derived the premise clause-by-clause, and produced the card.
+- **Innovation** resolved the flagged monotonicity joint at the genus level, named the intimate frame as the first custom frame, and added the floor, the alarm, the stress re-entry, the receiver-side statement, and the worst-frame contrast.
+- **Critique** killed nothing and won one **substantive** change — **Clause B reworded** from "I need nothing from this exchange" to "I don't need this to go any particular way to be whole" (BDA's own definition of outcome-independence; the original overclaimed and would have been a false premise for anyone with real wants — i.e. performed wearing by the account's own rule) — plus the nesting clarification, the explicit generator map, the graded "nothing to take off," the floor's admitted attachment-cost, and the audit placed at evening review rather than in the moment.
+- **The methods file's admissibility audit** (`BDA/03_METHODS.md`) passed: the generic frame is a composition of already-committed gate-content, no new element; the two metaphors of the parent finding ("compile", "wear") are inherited as flagged.
 
 ## Inherited Commitments Re-test
 
