@@ -103,7 +103,7 @@ Every term this folder uses, defined the way a newcomer needs. (Owner files hold
 
 **Pattern A** — the descriptive organization of the unilateral ingredients: Charm = current-positive, Hope = future-positive, Fear = (mostly future) negative; Resonance sits on a separate (dyadic) axis. Descriptive content, not a hidden substrate. `11`.
 
-**Persistence under change** — each attachment type's outside-view behaviour when circumstances shift (weakens as access recedes / dissolves when exchange ends / reverses on threat removal / persists through absence / high-persistence mixed). A property of the type. `30`.
+**Persistence under change** — each attachment type's outside-view behaviour when circumstances shift (goes quiet without occasions, kept by the record, revived on return / dissolves when exchange ends / reverses on threat removal / persists through absence / high-persistence mixed). A property of the type. `30`.
 
 **PRAGMA** — the conversation-measurement system BDA sits inside (signals → dynamics profile → interpretation → attachment readings; the legacy specs name those readings "APT Inference / APT Profiling"). `31`, `90`.
 
@@ -131,6 +131,8 @@ Every term this folder uses, defined the way a newcomer needs. (Owner files hold
 
 **Two-clause criterion** — an attention-object supports followership when engaging it **generates further content** and the object **lies outside the receiver** (partial inclusion — a group containing the receiver — still fails). `40`.
 
-**Two-family reading** — Charm/Hope/Fear are *externally grounded* (their ground can be removed: access recedes, exchange ends, threat lifts); Resonance is *internally maintained* (persists through absence). `30`.
+**Two-family reading** — Charm/Hope/Fear are *externally grounded* (their ground can be removed — Hope's and Fear's by events: exchange ends, threat lifts; Charm's only by re-evaluation: counter-evidence or re-pricing, never by distance alone); Resonance is *internally maintained* (persists through absence). `30`.
+
+**Access (a disambiguation)** — the word does six jobs in the corpus: *interactional* (the person can be reached), *evidential* (the person's conduct and record can be observed — the sense in the Charm row), *none* (Mozart), *scarcity of access* (an adjacent Charm-raising mechanism, `50` §3 — the opposite sign), Hope's own access ("accessible high value"; Continuity; access-Hope — `11` §3), and reading-access (how much of a person's backing a receiver can read). Say which. `30` §1; the charm_persistence finding.
 
 **Vitality** — physical aliveness/energy. Real, consequential at clinical extremes, **not** a gate (it threshold-switches rather than gating smoothly). `50`.

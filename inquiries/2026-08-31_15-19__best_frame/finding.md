@@ -8,7 +8,7 @@ refines: inquiries/2026-08-31_14-26__frame_definition/finding.md
 
 # Finding — The Generic Frame (What BDA Defines as the Best Frame for Daily Life)
 
-*Editing note: this finding was rewritten for self-containment on 2026-08-31, after CONCLUDE, at the user's request — every theory term and cross-reference is explained inside the document, so it can be read alone. The claims are unchanged from the concluded version (commit `28d8a2a`), with one labeled correction: Clause E's gate-label (see "A correction this rewrite made" in the reader's key).*
+*Editing note: this finding was rewritten for self-containment on 2026-08-31, after CONCLUDE, at the user's request — every theory term and cross-reference is explained inside the document, so it can be read alone. The claims are unchanged from the concluded version (commit `28d8a2a`), with one labeled correction: Clause E's gate-label (see "A correction this rewrite made" in the reader's key) — and a second marked correction (2026-08-31): the Charm line in the reader's key, per the charm_persistence inquiry.*
 
 ## Source Input
 
@@ -41,7 +41,7 @@ Everything below uses these terms. They are defined here so the document can be 
 
 - **Charm** — the belief *"this person is high-status / competent / impressive — I look up to them; I want their approval."*
   - Ingredients: status, competence, high-value signals.
-  - Charm-dominant attachment is admiration; it weakens as access to the person recedes.
+  - Charm-dominant attachment is the *Status / admiration* type. Its belief is kept by evidence — the person's or their record's — goes quiet without occasions, and is revived on return; it is not removed by losing access to the person. *(Corrected 2026-08-31 by the charm_persistence inquiry, `inquiries/2026-08-31_16-25__charm_persistence/finding.md`; the earlier text — "weakens as access to the person recedes" — narrowed the canon's "the Charm source" to "the person.")*
   - Caveat: deep competence only lands on receivers able to read it (the competence-legibility limit).
 
 - **Hope** — the belief *"this person's future action, presence, or orientation will produce a specific kind of positive outcome for me."*

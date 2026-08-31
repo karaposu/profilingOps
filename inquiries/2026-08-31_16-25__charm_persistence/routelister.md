@@ -12,9 +12,9 @@ Identities: **10** · High-priority: **3** · **Essential-count (core): 2**
 
 | # | Direction | engagement-type | Priority | Essentiality | ✓ |
 |---|---|---|---|---|---|
-| 1 | the BDA homing edits (the corrected row landed as state; M1 discharged; FR1's twin registered) | CONSOLIDATE | HIGH | **core** | |
-| 2 | the best_frame reader's-key sentence corrected | REFINE | HIGH | **core** | |
-| 3 | the sender-side maintenance note in `60` (record / exchange / presence — ship while silent) | DEVELOP | HIGH | supporting | |
+| 1 | the BDA homing edits (the corrected row landed as state; M1 discharged; FR1's twin registered) | CONSOLIDATE | HIGH | **core** | ✓ |
+| 2 | the best_frame reader's-key sentence corrected | REFINE | HIGH | **core** | ✓ |
+| 3 | the sender-side maintenance note in `60` (record / exchange / presence — ship while silent) | DEVELOP | HIGH | supporting | ✓ |
 | 4 | the fame cases as a `70` case row (the retired star; the comeback) | CONSOLIDATE | MED | supporting | |
 | 5 | the application docs' decay lines re-attributed | REFINE | MED | supporting | |
 | 6 | the stamped prediction's observation window (distance-decay tracks record-poverty) | TEST | MED | peripheral | |
